@@ -1,0 +1,2798 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<race name="Vendée Globe 2024" version="8.0" gen="84.6149">
+  <leg num="1">
+    <report id="740" date="2025-01-24T10:00:00Z" modification="2025-01-24T10:43:03Z">
+      <class id="1" name="IMOCA" distance="23905.63" start="2024-11-10T12:02:00Z">
+        <boat id="79" name="MACIF Santé Prévoyance" skipper="Charlie Dalin" skipperfirstname="Charlie" skiperlastname="Dalin">
+          <status>ARV</status>
+          <rank>1</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-14T13:46:00Z</date>
+          <latitude>46.50300</latitude>
+          <longitude>-1.78900</longitude>
+          <heading>57</heading>
+          <speed>0.72</speed>
+          <vmg>-0.41</vmg>
+          <over4h_heading>351</over4h_heading>
+          <over4h_speed>0.23</over4h_speed>
+          <over4h_vmg>-0.21</over4h_vmg>
+          <over4h_distance>0.91</over4h_distance>
+          <over24h_heading>123</over24h_heading>
+          <over24h_speed>5.41</over24h_speed>
+          <over24h_vmg>5.41</over24h_vmg>
+          <over24h_distance>129.83</over24h_distance>
+          <sincelastreport_heading>0</sincelastreport_heading>
+          <sincelastreport_speed>0.00</sincelastreport_speed>
+          <sincelastreport_vmg>0.00</sincelastreport_vmg>
+          <sincelastreport_distance>0.00</sincelastreport_distance>
+          <dtf>0</dtf>
+          <dtl>0</dtl>
+          <dtl_progression>0</dtl_progression>
+          <environment_wind_direction>36</environment_wind_direction>
+          <environment_wind_speed>83</environment_wind_speed>
+          <environment_wind_gust>123</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>329</environment_wave_direction>
+          <environment_wave_height>7</environment_wave_height>
+          <environment_tempair>52</environment_tempair>
+          <environment_tempwater>70</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>195</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-11-27T12:30:04Z</stats_over1_max_date>
+          <stats_over1_max_speed>28.59</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-19T12:30:31Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>599.01</stats_over24h_max_distance>
+          <stats_over24h_max_speed>24.96</stats_over24h_max_speed>
+          <stats_overground_distance>27667.91</stats_overground_distance>
+          <stats_overground_speed>17.79</stats_overground_speed>
+          <stats_overorthodromy_distance>23905.63</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>15.37</stats_overorthodromy_speed>
+          <stats_timesasleader date="2024-11-11T06:00:00Z">315</stats_timesasleader>
+          <stats_gapmaxtoleader date="2024-11-17T06:00:00Z">210.20</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="2024-12-12T02:00:00Z">340.55</stats_gapmaxtofollower>
+          <result_rank>1</result_rank>
+          <result_date>2025-01-14T07:24:49Z</result_date>
+          <result_time penalty="0">64;19;22;49</result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations />
+        </boat>
+        <boat id="24" name="PAPREC ARKÉA" skipper="Yoann Richomme" skipperfirstname="Yoann" skiperlastname="Richomme">
+          <status>ARV</status>
+          <rank>2</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-15T07:26:00Z</date>
+          <latitude>46.50268</latitude>
+          <longitude>-1.78868</longitude>
+          <heading>72</heading>
+          <speed>1.25</speed>
+          <vmg>-0.43</vmg>
+          <over4h_heading>43</over4h_heading>
+          <over4h_speed>1.64</over4h_speed>
+          <over4h_vmg>1.61</over4h_vmg>
+          <over4h_distance>6.58</over4h_distance>
+          <over24h_heading>122</over24h_heading>
+          <over24h_speed>5.01</over24h_speed>
+          <over24h_vmg>5.01</over24h_vmg>
+          <over24h_distance>120.29</over24h_distance>
+          <sincelastreport_heading>0</sincelastreport_heading>
+          <sincelastreport_speed>0.00</sincelastreport_speed>
+          <sincelastreport_vmg>0.00</sincelastreport_vmg>
+          <sincelastreport_distance>0.00</sincelastreport_distance>
+          <dtf>0</dtf>
+          <dtl>0</dtl>
+          <dtl_progression>0</dtl_progression>
+          <environment_wind_direction>50</environment_wind_direction>
+          <environment_wind_speed>74</environment_wind_speed>
+          <environment_wind_gust>104</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>329</environment_wave_direction>
+          <environment_wave_height>7</environment_wave_height>
+          <environment_tempair>17</environment_tempair>
+          <environment_tempwater>69</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>87</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-11-27T00:02:44Z</stats_over1_max_date>
+          <stats_over1_max_speed>28.44</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-19T00:31:09Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>581.02</stats_over24h_max_distance>
+          <stats_over24h_max_speed>24.21</stats_over24h_max_speed>
+          <stats_overground_distance>28326.09</stats_overground_distance>
+          <stats_overground_speed>17.95</stats_overground_speed>
+          <stats_overorthodromy_distance>23905.63</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>15.15</stats_overorthodromy_speed>
+          <stats_timesasleader date="2024-11-13T02:00:00Z">76</stats_timesasleader>
+          <stats_gapmaxtoleader date="2024-12-08T02:00:00Z">557.89</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="2024-12-28T14:00:00Z">130.48</stats_gapmaxtofollower>
+          <result_rank>2</result_rank>
+          <result_date>2025-01-15T06:12:02Z</result_date>
+          <result_time penalty="0">65;18;10;02</result_time>
+          <result_timetofirst>0;22;47;13</result_timetofirst>
+          <result_timtoprevious>0;22;47;13</result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations />
+        </boat>
+        <boat id="112" name="Groupe Dubreuil" skipper="Sébastien Simon" skipperfirstname="Sébastien" skiperlastname="Simon">
+          <status>ARV</status>
+          <rank>3</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-17T08:00:00Z</date>
+          <latitude>46.50262</latitude>
+          <longitude>-1.78882</longitude>
+          <heading>63</heading>
+          <speed>1.00</speed>
+          <vmg>-0.48</vmg>
+          <over4h_heading>351</over4h_heading>
+          <over4h_speed>0.21</over4h_speed>
+          <over4h_vmg>-0.20</over4h_vmg>
+          <over4h_distance>0.86</over4h_distance>
+          <over24h_heading>123</over24h_heading>
+          <over24h_speed>5.18</over24h_speed>
+          <over24h_vmg>5.18</over24h_vmg>
+          <over24h_distance>124.33</over24h_distance>
+          <sincelastreport_heading>0</sincelastreport_heading>
+          <sincelastreport_speed>0.00</sincelastreport_speed>
+          <sincelastreport_vmg>0.00</sincelastreport_vmg>
+          <sincelastreport_distance>0.00</sincelastreport_distance>
+          <dtf>0</dtf>
+          <dtl>0</dtl>
+          <dtl_progression>0</dtl_progression>
+          <environment_wind_direction>96</environment_wind_direction>
+          <environment_wind_speed>56</environment_wind_speed>
+          <environment_wind_gust>65</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>329</environment_wave_direction>
+          <environment_wave_height>7</environment_wave_height>
+          <environment_tempair>34</environment_tempair>
+          <environment_tempwater>69</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>0</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-11-27T11:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>28.81</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-11-27T14:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>615.33</stats_over24h_max_distance>
+          <stats_over24h_max_speed>25.64</stats_over24h_max_speed>
+          <stats_overground_distance>27807.20</stats_overground_distance>
+          <stats_overground_speed>17.16</stats_overground_speed>
+          <stats_overorthodromy_distance>23905.63</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>14.75</stats_overorthodromy_speed>
+          <stats_timesasleader date="2024-11-11T02:00:00Z">8</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T14:00:00Z">961.51</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="2024-12-17T22:00:00Z">27.22</stats_gapmaxtofollower>
+          <result_rank>3</result_rank>
+          <result_date>2025-01-17T00:27:37Z</result_date>
+          <result_time penalty="0">67;12;25;37</result_time>
+          <result_timetofirst>2;17;02;48</result_timetofirst>
+          <result_timtoprevious>1;18;15;35</result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations />
+        </boat>
+        <boat id="3" name="Charal" skipper="Jérémie Beyou" skipperfirstname="Jérémie" skiperlastname="Beyou">
+          <status>ARV</status>
+          <rank>4</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>46.47065</latitude>
+          <longitude>-1.82768</longitude>
+          <heading>179</heading>
+          <speed>1.73</speed>
+          <vmg>-0.13</vmg>
+          <over4h_heading>80</over4h_heading>
+          <over4h_speed>5.49</over4h_speed>
+          <over4h_vmg>5.49</over4h_vmg>
+          <over4h_distance>21.95</over4h_distance>
+          <over24h_heading>76</over24h_heading>
+          <over24h_speed>11.34</over24h_speed>
+          <over24h_vmg>11.31</over24h_vmg>
+          <over24h_distance>272.15</over24h_distance>
+          <sincelastreport_heading>80</sincelastreport_heading>
+          <sincelastreport_speed>5.49</sincelastreport_speed>
+          <sincelastreport_vmg>5.49</sincelastreport_vmg>
+          <sincelastreport_distance>21.95</sincelastreport_distance>
+          <dtf>0</dtf>
+          <dtl>0</dtl>
+          <dtl_progression>0</dtl_progression>
+          <environment_wind_direction>185</environment_wind_direction>
+          <environment_wind_speed>186</environment_wind_speed>
+          <environment_wind_gust>333</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>336</environment_wave_direction>
+          <environment_wave_height>14</environment_wave_height>
+          <environment_tempair>108</environment_tempair>
+          <environment_tempwater>72</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>959</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-17T00:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>27.97</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-11-27T14:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>587.58</stats_over24h_max_distance>
+          <stats_over24h_max_speed>24.48</stats_over24h_max_speed>
+          <stats_overground_distance>29048.94</stats_overground_distance>
+          <stats_overground_speed>16.24</stats_overground_speed>
+          <stats_overorthodromy_distance>23905.63</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>13.36</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">2904.30</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank>4</result_rank>
+          <result_date>2025-01-24T00:58:54Z</result_date>
+          <result_time penalty="0">74;12;56;54</result_time>
+          <result_timetofirst>9;17;34;05</result_timetofirst>
+          <result_timtoprevious>7;00;31;17</result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T05:40:00Z" latitude="46.40461" longitude="-2.34196"></location>
+            <location date="2025-01-24T05:50:00Z" latitude="46.40868" longitude="-2.31045"></location>
+            <location date="2025-01-24T06:00:00Z" latitude="46.41212" longitude="-2.27782"></location>
+            <location date="2025-01-24T06:10:00Z" latitude="46.41458" longitude="-2.24381"></location>
+            <location date="2025-01-24T06:20:00Z" latitude="46.41694" longitude="-2.21055"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="46.42090" longitude="-2.17887"></location>
+            <location date="2025-01-24T06:40:00Z" latitude="46.42524" longitude="-2.14829"></location>
+            <location date="2025-01-24T06:50:00Z" latitude="46.42823" longitude="-2.11864"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="46.43061" longitude="-2.08883"></location>
+            <location date="2025-01-24T07:10:00Z" latitude="46.43369" longitude="-2.05903"></location>
+            <location date="2025-01-24T07:20:00Z" latitude="46.43661" longitude="-2.02777"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="46.44074" longitude="-1.99713"></location>
+            <location date="2025-01-24T07:40:00Z" latitude="46.44618" longitude="-1.96780"></location>
+            <location date="2025-01-24T07:50:00Z" latitude="46.44934" longitude="-1.93902"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="46.45260" longitude="-1.91065"></location>
+            <location date="2025-01-24T08:10:00Z" latitude="46.45709" longitude="-1.88473"></location>
+            <location date="2025-01-24T08:20:00Z" latitude="46.46117" longitude="-1.86044"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="46.46473" longitude="-1.83619"></location>
+            <location date="2025-01-24T08:40:00Z" latitude="46.46701" longitude="-1.81380"></location>
+            <location date="2025-01-24T08:50:00Z" latitude="46.46779" longitude="-1.79187"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="46.47013" longitude="-1.79635"></location>
+            <location date="2025-01-24T09:10:00Z" latitude="46.47283" longitude="-1.81233"></location>
+            <location date="2025-01-24T09:20:00Z" latitude="46.47546" longitude="-1.82777"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="46.47065" longitude="-1.82768"></location>
+          </locations>
+        </boat>
+        <boat id="2030" name="Biotherm" skipper="Paul Meilhat" skipperfirstname="Paul" skiperlastname="Meilhat">
+          <status>ARV</status>
+          <rank>5</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>46.34804</latitude>
+          <longitude>-2.21240</longitude>
+          <heading>17</heading>
+          <speed>7.61</speed>
+          <vmg>4.93</vmg>
+          <over4h_heading>61</over4h_heading>
+          <over4h_speed>11.05</over4h_speed>
+          <over4h_vmg>11.05</over4h_vmg>
+          <over4h_distance>44.19</over4h_distance>
+          <over24h_heading>77</over24h_heading>
+          <over24h_speed>16.70</over24h_speed>
+          <over24h_vmg>16.57</over24h_vmg>
+          <over24h_distance>400.71</over24h_distance>
+          <sincelastreport_heading>61</sincelastreport_heading>
+          <sincelastreport_speed>11.05</sincelastreport_speed>
+          <sincelastreport_vmg>11.05</sincelastreport_vmg>
+          <sincelastreport_distance>44.19</sincelastreport_distance>
+          <dtf>0</dtf>
+          <dtl>0</dtl>
+          <dtl_progression>0</dtl_progression>
+          <environment_wind_direction>186</environment_wind_direction>
+          <environment_wind_speed>200</environment_wind_speed>
+          <environment_wind_gust>333</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>282</environment_wave_direction>
+          <environment_wave_height>15</environment_wave_height>
+          <environment_tempair>117</environment_tempair>
+          <environment_tempwater>92</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>959</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-03T19:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>26.89</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-16T15:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>551.58</stats_over24h_max_distance>
+          <stats_over24h_max_speed>22.98</stats_over24h_max_speed>
+          <stats_overground_distance>28050.96</stats_overground_distance>
+          <stats_overground_speed>15.60</stats_overground_speed>
+          <stats_overorthodromy_distance>23905.63</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>13.29</stats_overorthodromy_speed>
+          <stats_timesasleader date="2024-11-10T14:00:00Z">2</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">2944.94</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="2024-11-10T18:00:00Z">0.24</stats_gapmaxtofollower>
+          <result_rank>5</result_rank>
+          <result_date>2025-01-24T10:40:15Z</result_date>
+          <result_time penalty="0">74;22;38;15</result_time>
+          <result_timetofirst>10;03;15;26</result_timetofirst>
+          <result_timtoprevious>0;09;41;21</result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T05:32:00Z" latitude="45.99538" longitude="-3.13193"></location>
+            <location date="2025-01-24T05:34:00Z" latitude="45.99756" longitude="-3.12044"></location>
+            <location date="2025-01-24T05:36:00Z" latitude="45.99977" longitude="-3.10741"></location>
+            <location date="2025-01-24T05:38:00Z" latitude="46.00189" longitude="-3.09399"></location>
+            <location date="2025-01-24T05:40:00Z" latitude="46.00398" longitude="-3.08044"></location>
+            <location date="2025-01-24T05:42:00Z" latitude="46.00605" longitude="-3.06766"></location>
+            <location date="2025-01-24T05:44:00Z" latitude="46.00779" longitude="-3.05531"></location>
+            <location date="2025-01-24T05:46:00Z" latitude="46.01014" longitude="-3.04171"></location>
+            <location date="2025-01-24T05:48:00Z" latitude="46.01230" longitude="-3.02775"></location>
+            <location date="2025-01-24T05:50:00Z" latitude="46.01471" longitude="-3.01414"></location>
+            <location date="2025-01-24T05:52:00Z" latitude="46.01705" longitude="-3.00003"></location>
+            <location date="2025-01-24T05:54:00Z" latitude="46.01948" longitude="-2.98582"></location>
+            <location date="2025-01-24T05:56:00Z" latitude="46.02132" longitude="-2.97326"></location>
+            <location date="2025-01-24T05:58:00Z" latitude="46.02334" longitude="-2.95968"></location>
+            <location date="2025-01-24T06:00:00Z" latitude="46.02502" longitude="-2.94592"></location>
+            <location date="2025-01-24T06:02:49Z" latitude="46.02722" longitude="-2.92698"></location>
+            <location date="2025-01-24T06:04:00Z" latitude="46.02806" longitude="-2.91966"></location>
+            <location date="2025-01-24T06:06:00Z" latitude="46.03003" longitude="-2.90547"></location>
+            <location date="2025-01-24T06:08:00Z" latitude="46.03147" longitude="-2.89298"></location>
+            <location date="2025-01-24T06:10:00Z" latitude="46.03271" longitude="-2.88049"></location>
+            <location date="2025-01-24T06:12:00Z" latitude="46.03391" longitude="-2.86780"></location>
+            <location date="2025-01-24T06:14:00Z" latitude="46.03498" longitude="-2.85576"></location>
+            <location date="2025-01-24T06:16:00Z" latitude="46.03640" longitude="-2.84343"></location>
+            <location date="2025-01-24T06:18:00Z" latitude="46.03779" longitude="-2.83165"></location>
+            <location date="2025-01-24T06:20:00Z" latitude="46.03994" longitude="-2.81852"></location>
+            <location date="2025-01-24T06:22:00Z" latitude="46.04153" longitude="-2.80735"></location>
+            <location date="2025-01-24T06:24:00Z" latitude="46.04326" longitude="-2.79489"></location>
+            <location date="2025-01-24T06:26:00Z" latitude="46.04470" longitude="-2.78246"></location>
+            <location date="2025-01-24T06:28:00Z" latitude="46.04563" longitude="-2.77037"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="46.04729" longitude="-2.75720"></location>
+            <location date="2025-01-24T06:32:00Z" latitude="46.04880" longitude="-2.74430"></location>
+            <location date="2025-01-24T06:34:00Z" latitude="46.05006" longitude="-2.73174"></location>
+            <location date="2025-01-24T06:36:00Z" latitude="46.05160" longitude="-2.71939"></location>
+            <location date="2025-01-24T06:38:00Z" latitude="46.05312" longitude="-2.70819"></location>
+            <location date="2025-01-24T06:40:00Z" latitude="46.05438" longitude="-2.69542"></location>
+            <location date="2025-01-24T06:42:00Z" latitude="46.05547" longitude="-2.68231"></location>
+            <location date="2025-01-24T06:44:00Z" latitude="46.05667" longitude="-2.67115"></location>
+            <location date="2025-01-24T06:46:00Z" latitude="46.05842" longitude="-2.66016"></location>
+            <location date="2025-01-24T06:48:00Z" latitude="46.05971" longitude="-2.64831"></location>
+            <location date="2025-01-24T06:50:00Z" latitude="46.06051" longitude="-2.63581"></location>
+            <location date="2025-01-24T06:52:00Z" latitude="46.06117" longitude="-2.62393"></location>
+            <location date="2025-01-24T06:54:00Z" latitude="46.06182" longitude="-2.61183"></location>
+            <location date="2025-01-24T06:56:00Z" latitude="46.06253" longitude="-2.60035"></location>
+            <location date="2025-01-24T06:58:00Z" latitude="46.06351" longitude="-2.58845"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="46.06483" longitude="-2.57585"></location>
+            <location date="2025-01-24T07:02:00Z" latitude="46.06570" longitude="-2.56305"></location>
+            <location date="2025-01-24T07:04:00Z" latitude="46.06681" longitude="-2.54914"></location>
+            <location date="2025-01-24T07:06:00Z" latitude="46.06805" longitude="-2.53758"></location>
+            <location date="2025-01-24T07:08:00Z" latitude="46.06919" longitude="-2.52476"></location>
+            <location date="2025-01-24T07:10:00Z" latitude="46.07004" longitude="-2.51250"></location>
+            <location date="2025-01-24T07:12:00Z" latitude="46.07098" longitude="-2.50008"></location>
+            <location date="2025-01-24T07:14:00Z" latitude="46.07187" longitude="-2.48853"></location>
+            <location date="2025-01-24T07:16:00Z" latitude="46.07274" longitude="-2.47678"></location>
+            <location date="2025-01-24T07:18:00Z" latitude="46.07318" longitude="-2.46394"></location>
+            <location date="2025-01-24T07:20:00Z" latitude="46.07363" longitude="-2.45154"></location>
+            <location date="2025-01-24T07:22:00Z" latitude="46.07447" longitude="-2.44043"></location>
+            <location date="2025-01-24T07:24:00Z" latitude="46.07563" longitude="-2.42893"></location>
+            <location date="2025-01-24T07:26:01Z" latitude="46.07702" longitude="-2.41783"></location>
+            <location date="2025-01-24T07:28:00Z" latitude="46.07793" longitude="-2.40580"></location>
+            <location date="2025-01-24T07:30:01Z" latitude="46.07808" longitude="-2.39300"></location>
+            <location date="2025-01-24T07:32:00Z" latitude="46.07837" longitude="-2.38190"></location>
+            <location date="2025-01-24T07:34:00Z" latitude="46.07889" longitude="-2.37096"></location>
+            <location date="2025-01-24T07:36:00Z" latitude="46.07951" longitude="-2.35911"></location>
+            <location date="2025-01-24T07:38:00Z" latitude="46.08024" longitude="-2.34802"></location>
+            <location date="2025-01-24T07:40:00Z" latitude="46.08118" longitude="-2.33700"></location>
+            <location date="2025-01-24T07:42:00Z" latitude="46.08220" longitude="-2.32479"></location>
+            <location date="2025-01-24T07:44:00Z" latitude="46.08273" longitude="-2.31073"></location>
+            <location date="2025-01-24T07:46:00Z" latitude="46.08228" longitude="-2.29761"></location>
+            <location date="2025-01-24T07:48:00Z" latitude="46.08171" longitude="-2.28529"></location>
+            <location date="2025-01-24T07:50:01Z" latitude="46.08150" longitude="-2.27324"></location>
+            <location date="2025-01-24T07:52:00Z" latitude="46.08176" longitude="-2.26198"></location>
+            <location date="2025-01-24T07:54:00Z" latitude="46.08227" longitude="-2.25088"></location>
+            <location date="2025-01-24T07:56:00Z" latitude="46.08293" longitude="-2.24027"></location>
+            <location date="2025-01-24T07:58:00Z" latitude="46.08418" longitude="-2.22936"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="46.08580" longitude="-2.21862"></location>
+            <location date="2025-01-24T08:02:00Z" latitude="46.08909" longitude="-2.21084"></location>
+            <location date="2025-01-24T08:04:23Z" latitude="46.09234" longitude="-2.20095"></location>
+            <location date="2025-01-24T08:06:00Z" latitude="46.09401" longitude="-2.19307"></location>
+            <location date="2025-01-24T08:08:00Z" latitude="46.09558" longitude="-2.18295"></location>
+            <location date="2025-01-24T08:10:00Z" latitude="46.09679" longitude="-2.17238"></location>
+            <location date="2025-01-24T08:12:00Z" latitude="46.09802" longitude="-2.16265"></location>
+            <location date="2025-01-24T08:14:00Z" latitude="46.10024" longitude="-2.15388"></location>
+            <location date="2025-01-24T08:16:00Z" latitude="46.10225" longitude="-2.14565"></location>
+            <location date="2025-01-24T08:18:00Z" latitude="46.10430" longitude="-2.13812"></location>
+            <location date="2025-01-24T08:20:00Z" latitude="46.10775" longitude="-2.13243"></location>
+            <location date="2025-01-24T08:22:00Z" latitude="46.11333" longitude="-2.13002"></location>
+            <location date="2025-01-24T08:24:00Z" latitude="46.12000" longitude="-2.13012"></location>
+            <location date="2025-01-24T08:26:00Z" latitude="46.12714" longitude="-2.13107"></location>
+            <location date="2025-01-24T08:28:00Z" latitude="46.13456" longitude="-2.13173"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="46.14210" longitude="-2.13276"></location>
+            <location date="2025-01-24T08:32:00Z" latitude="46.14921" longitude="-2.13361"></location>
+            <location date="2025-01-24T08:34:00Z" latitude="46.15676" longitude="-2.13470"></location>
+            <location date="2025-01-24T08:36:00Z" latitude="46.16393" longitude="-2.13572"></location>
+            <location date="2025-01-24T08:38:00Z" latitude="46.17083" longitude="-2.13681"></location>
+            <location date="2025-01-24T08:40:00Z" latitude="46.17765" longitude="-2.13834"></location>
+            <location date="2025-01-24T08:42:00Z" latitude="46.18478" longitude="-2.14013"></location>
+            <location date="2025-01-24T08:44:00Z" latitude="46.19213" longitude="-2.14284"></location>
+            <location date="2025-01-24T08:46:00Z" latitude="46.19920" longitude="-2.14582"></location>
+            <location date="2025-01-24T08:48:00Z" latitude="46.20639" longitude="-2.14950"></location>
+            <location date="2025-01-24T08:50:00Z" latitude="46.21332" longitude="-2.15285"></location>
+            <location date="2025-01-24T08:52:00Z" latitude="46.21987" longitude="-2.15695"></location>
+            <location date="2025-01-24T08:54:00Z" latitude="46.22692" longitude="-2.16144"></location>
+            <location date="2025-01-24T08:56:00Z" latitude="46.23359" longitude="-2.16600"></location>
+            <location date="2025-01-24T08:58:00Z" latitude="46.24022" longitude="-2.17054"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="46.24756" longitude="-2.17521"></location>
+            <location date="2025-01-24T09:02:00Z" latitude="46.25512" longitude="-2.18032"></location>
+            <location date="2025-01-24T09:05:00Z" latitude="46.26543" longitude="-2.18669"></location>
+            <location date="2025-01-24T09:06:00Z" latitude="46.26898" longitude="-2.18855"></location>
+            <location date="2025-01-24T09:08:00Z" latitude="46.27629" longitude="-2.19225"></location>
+            <location date="2025-01-24T09:10:00Z" latitude="46.28338" longitude="-2.19516"></location>
+            <location date="2025-01-24T09:12:00Z" latitude="46.29093" longitude="-2.19826"></location>
+            <location date="2025-01-24T09:14:00Z" latitude="46.29819" longitude="-2.20103"></location>
+            <location date="2025-01-24T09:16:00Z" latitude="46.30542" longitude="-2.20363"></location>
+            <location date="2025-01-24T09:18:00Z" latitude="46.31205" longitude="-2.20561"></location>
+            <location date="2025-01-24T09:20:00Z" latitude="46.31862" longitude="-2.20760"></location>
+            <location date="2025-01-24T09:22:00Z" latitude="46.32521" longitude="-2.20991"></location>
+            <location date="2025-01-24T09:24:00Z" latitude="46.33223" longitude="-2.21248"></location>
+            <location date="2025-01-24T09:26:00Z" latitude="46.33841" longitude="-2.21420"></location>
+            <location date="2025-01-24T09:28:00Z" latitude="46.34401" longitude="-2.21424"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="46.34804" longitude="-2.21240"></location>
+          </locations>
+        </boat>
+        <boat id="85" name="HOLCIM - PRB" skipper="Nicolas Lunven" skipperfirstname="Nicolas" skiperlastname="Lunven">
+          <status>RAC</status>
+          <rank>6</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>45.02291</latitude>
+          <longitude>-4.20002</longitude>
+          <heading>92</heading>
+          <speed>19.45</speed>
+          <vmg>14.08</vmg>
+          <over4h_heading>72</over4h_heading>
+          <over4h_speed>13.05</over4h_speed>
+          <over4h_vmg>12.43</over4h_vmg>
+          <over4h_distance>52.18</over4h_distance>
+          <over24h_heading>74</over24h_heading>
+          <over24h_speed>15.17</over24h_speed>
+          <over24h_vmg>14.83</over24h_vmg>
+          <over24h_distance>364.11</over24h_distance>
+          <sincelastreport_heading>72</sincelastreport_heading>
+          <sincelastreport_speed>13.05</sincelastreport_speed>
+          <sincelastreport_vmg>12.43</sincelastreport_vmg>
+          <sincelastreport_distance>52.18</sincelastreport_distance>
+          <dtf>133.31</dtf>
+          <dtl>0.00</dtl>
+          <dtl_progression>119.26</dtl_progression>
+          <environment_wind_direction>191</environment_wind_direction>
+          <environment_wind_speed>177</environment_wind_speed>
+          <environment_wind_gust>275</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>304</environment_wave_direction>
+          <environment_wave_height>23</environment_wave_height>
+          <environment_tempair>141</environment_tempair>
+          <environment_tempwater>129</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>891</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-16T13:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>29.02</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-17T01:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>596.46</stats_over24h_max_distance>
+          <stats_over24h_max_speed>24.85</stats_over24h_max_speed>
+          <stats_overground_distance>29233.38</stats_overground_distance>
+          <stats_overground_speed>16.26</stats_overground_speed>
+          <stats_overorthodromy_distance>23772.32</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>13.23</stats_overorthodromy_speed>
+          <stats_timesasleader date="2024-11-14T14:00:00Z">2</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T06:00:00Z">3125.91</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="2024-11-14T14:00:00Z">15.27</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="44.75559" longitude="-5.17648"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="44.83085" longitude="-5.16837"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="44.94401" longitude="-5.17388"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="45.06649" longitude="-5.12371"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="45.05849" longitude="-4.90016"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="45.03983" longitude="-4.67048"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="45.02907" longitude="-4.42901"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="45.02291" longitude="-4.20002"></location>
+          </locations>
+        </boat>
+        <boat id="59" name="VULNERABLE" skipper="Thomas Ruyant" skipperfirstname="Thomas" skiperlastname="Ruyant">
+          <status>RAC</status>
+          <rank>7</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:18Z</date>
+          <latitude>43.97960</latitude>
+          <longitude>-6.48711</longitude>
+          <heading>88</heading>
+          <speed>19.39</speed>
+          <vmg>15.56</vmg>
+          <over4h_heading>81</over4h_heading>
+          <over4h_speed>16.46</over4h_speed>
+          <over4h_vmg>14.93</over4h_vmg>
+          <over4h_distance>65.82</over4h_distance>
+          <over24h_heading>47</over24h_heading>
+          <over24h_speed>12.07</over24h_speed>
+          <over24h_vmg>12.07</over24h_vmg>
+          <over24h_distance>289.72</over24h_distance>
+          <sincelastreport_heading>81</sincelastreport_heading>
+          <sincelastreport_speed>16.46</sincelastreport_speed>
+          <sincelastreport_vmg>14.93</sincelastreport_vmg>
+          <sincelastreport_distance>65.82</sincelastreport_distance>
+          <dtf>248.65</dtf>
+          <dtl>115.34</dtl>
+          <dtl_progression>128.92</dtl_progression>
+          <environment_wind_direction>218</environment_wind_direction>
+          <environment_wind_speed>128</environment_wind_speed>
+          <environment_wind_gust>184</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>313</environment_wave_direction>
+          <environment_wave_height>27</environment_wave_height>
+          <environment_tempair>124</environment_tempair>
+          <environment_tempwater>137</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>697</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-11-27T14:00:18Z</stats_over1_max_date>
+          <stats_over1_max_speed>28.54</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-17T23:00:18Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>579.94</stats_over24h_max_distance>
+          <stats_over24h_max_speed>24.16</stats_over24h_max_speed>
+          <stats_overground_distance>29078.40</stats_overground_distance>
+          <stats_overground_speed>16.18</stats_overground_speed>
+          <stats_overorthodromy_distance>23656.98</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>13.16</stats_overorthodromy_speed>
+          <stats_timesasleader date="2024-11-21T06:00:00Z">6</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">3183.97</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="2024-11-21T10:00:00Z">22.45</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:18Z" latitude="43.83555" longitude="-7.79861"></location>
+            <location date="2025-01-24T06:30:18Z" latitude="43.85008" longitude="-7.63080"></location>
+            <location date="2025-01-24T07:00:18Z" latitude="43.85351" longitude="-7.48574"></location>
+            <location date="2025-01-24T07:30:18Z" latitude="43.85597" longitude="-7.33236"></location>
+            <location date="2025-01-24T08:00:18Z" latitude="43.88338" longitude="-7.12880"></location>
+            <location date="2025-01-24T08:30:18Z" latitude="43.93071" longitude="-6.92158"></location>
+            <location date="2025-01-24T09:00:18Z" latitude="43.97243" longitude="-6.71128"></location>
+            <location date="2025-01-24T09:30:18Z" latitude="43.97960" longitude="-6.48711"></location>
+          </locations>
+        </boat>
+        <boat id="8" name="TeamWork - Team Snef" skipper="Justine Mettraux" skipperfirstname="Justine" skiperlastname="Mettraux">
+          <status>RAC</status>
+          <rank>8</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>43.84908</latitude>
+          <longitude>-6.93522</longitude>
+          <heading>85</heading>
+          <speed>17.48</speed>
+          <vmg>14.71</vmg>
+          <over4h_heading>80</over4h_heading>
+          <over4h_speed>14.38</over4h_speed>
+          <over4h_vmg>13.12</over4h_vmg>
+          <over4h_distance>57.52</over4h_distance>
+          <over24h_heading>56</over24h_heading>
+          <over24h_speed>12.12</over24h_speed>
+          <over24h_vmg>12.06</over24h_vmg>
+          <over24h_distance>290.85</over24h_distance>
+          <sincelastreport_heading>80</sincelastreport_heading>
+          <sincelastreport_speed>14.38</sincelastreport_speed>
+          <sincelastreport_vmg>13.12</sincelastreport_vmg>
+          <sincelastreport_distance>57.52</sincelastreport_distance>
+          <dtf>268.73</dtf>
+          <dtl>135.42</dtl>
+          <dtl_progression>122.06</dtl_progression>
+          <environment_wind_direction>217</environment_wind_direction>
+          <environment_wind_speed>141</environment_wind_speed>
+          <environment_wind_gust>210</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>317</environment_wave_direction>
+          <environment_wave_height>29</environment_wave_height>
+          <environment_tempair>120</environment_tempair>
+          <environment_tempwater>138</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>690</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-03T04:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>25.36</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-17T15:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>524.04</stats_over24h_max_distance>
+          <stats_over24h_max_speed>21.83</stats_over24h_max_speed>
+          <stats_overground_distance>27780.77</stats_overground_distance>
+          <stats_overground_speed>15.46</stats_overground_speed>
+          <stats_overorthodromy_distance>23636.90</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>13.15</stats_overorthodromy_speed>
+          <stats_timesasleader date="2024-11-10T22:00:00Z">1</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T06:00:00Z">3338.92</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="2024-11-10T22:00:00Z">0.24</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="43.75234" longitude="-8.14180"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="43.78072" longitude="-7.95513"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="43.79954" longitude="-7.78850"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="43.80050" longitude="-7.62165"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="43.81023" longitude="-7.47174"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="43.82147" longitude="-7.30249"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="43.83523" longitude="-7.13611"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="43.84908" longitude="-6.93522"></location>
+          </locations>
+        </boat>
+        <boat id="100" name="VULNERABLE" skipper="Sam Goodchild" skipperfirstname="Sam" skiperlastname="Goodchild">
+          <status>RAC</status>
+          <rank>9</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>43.73568</latitude>
+          <longitude>-8.11436</longitude>
+          <heading>57</heading>
+          <speed>15.18</speed>
+          <vmg>15.17</vmg>
+          <over4h_heading>59</over4h_heading>
+          <over4h_speed>13.44</over4h_speed>
+          <over4h_vmg>13.42</over4h_vmg>
+          <over4h_distance>53.75</over4h_distance>
+          <over24h_heading>25</over24h_heading>
+          <over24h_speed>9.45</over24h_speed>
+          <over24h_vmg>9.04</over24h_vmg>
+          <over24h_distance>226.87</over24h_distance>
+          <sincelastreport_heading>59</sincelastreport_heading>
+          <sincelastreport_speed>13.44</sincelastreport_speed>
+          <sincelastreport_vmg>13.42</sincelastreport_vmg>
+          <sincelastreport_distance>53.75</sincelastreport_distance>
+          <dtf>314.24</dtf>
+          <dtl>180.93</dtl>
+          <dtl_progression>123.86</dtl_progression>
+          <environment_wind_direction>213</environment_wind_direction>
+          <environment_wind_speed>212</environment_wind_speed>
+          <environment_wind_gust>350</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>311</environment_wave_direction>
+          <environment_wave_height>36</environment_wave_height>
+          <environment_tempair>128</environment_tempair>
+          <environment_tempwater>139</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>702</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-11-23T00:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>25.89</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-11-28T00:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>534.59</stats_over24h_max_distance>
+          <stats_over24h_max_speed>22.27</stats_over24h_max_speed>
+          <stats_overground_distance>28208.11</stats_overground_distance>
+          <stats_overground_speed>15.69</stats_overground_speed>
+          <stats_overorthodromy_distance>23591.39</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>13.12</stats_overorthodromy_speed>
+          <stats_timesasleader date="2024-11-12T10:00:00Z">24</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">2902.27</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="2024-11-19T18:00:00Z">43.50</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="43.31778" longitude="-9.01678"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="43.36389" longitude="-8.87086"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="43.39180" longitude="-8.74332"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="43.44342" longitude="-8.65820"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="43.51143" longitude="-8.56881"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="43.59113" longitude="-8.40818"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="43.66642" longitude="-8.26058"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="43.73568" longitude="-8.11436"></location>
+          </locations>
+        </boat>
+        <boat id="9" name="GUYOT environnement - Water Family" skipper="Benjamin Dutreux" skipperfirstname="Benjamin" skiperlastname="Dutreux">
+          <status>RAC</status>
+          <rank>10</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:01Z</date>
+          <latitude>36.32784</latitude>
+          <longitude>-15.85222</longitude>
+          <heading>13</heading>
+          <speed>19.75</speed>
+          <vmg>18.35</vmg>
+          <over4h_heading>11</over4h_heading>
+          <over4h_speed>18.19</over4h_speed>
+          <over4h_vmg>17.00</over4h_vmg>
+          <over4h_distance>72.76</over4h_distance>
+          <over24h_heading>348</over24h_heading>
+          <over24h_speed>9.12</over24h_speed>
+          <over24h_vmg>7.55</over24h_vmg>
+          <over24h_distance>218.96</over24h_distance>
+          <sincelastreport_heading>9</sincelastreport_heading>
+          <sincelastreport_speed>16.49</sincelastreport_speed>
+          <sincelastreport_vmg>15.33</sincelastreport_vmg>
+          <sincelastreport_distance>90.66</sincelastreport_distance>
+          <dtf>885.03</dtf>
+          <dtl>751.72</dtl>
+          <dtl_progression>153.26</dtl_progression>
+          <environment_wind_direction>236</environment_wind_direction>
+          <environment_wind_speed>167</environment_wind_speed>
+          <environment_wind_gust>187</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>325</environment_wave_direction>
+          <environment_wave_height>20</environment_wave_height>
+          <environment_tempair>163</environment_tempair>
+          <environment_tempwater>172</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>538</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-06T09:00:29Z</stats_over1_max_date>
+          <stats_over1_max_speed>25.55</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-24T23:00:18Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>527.89</stats_over24h_max_distance>
+          <stats_over24h_max_speed>22.00</stats_over24h_max_speed>
+          <stats_overground_distance>27556.30</stats_overground_distance>
+          <stats_overground_speed>15.33</stats_overground_speed>
+          <stats_overorthodromy_distance>23020.60</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>12.81</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">3859.13</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:22Z" latitude="35.28913" longitude="-16.10369"></location>
+            <location date="2025-01-24T06:30:18Z" latitude="35.42770" longitude="-16.10866"></location>
+            <location date="2025-01-24T07:00:18Z" latitude="35.57185" longitude="-16.09164"></location>
+            <location date="2025-01-24T07:30:18Z" latitude="35.72078" longitude="-16.05354"></location>
+            <location date="2025-01-24T08:00:18Z" latitude="35.87688" longitude="-16.00994"></location>
+            <location date="2025-01-24T08:30:18Z" latitude="36.03360" longitude="-15.96032"></location>
+            <location date="2025-01-24T09:00:11Z" latitude="36.16876" longitude="-15.89934"></location>
+            <location date="2025-01-24T09:30:01Z" latitude="36.32784" longitude="-15.85222"></location>
+          </locations>
+        </boat>
+        <boat id="15" name="L'Occitane en Provence" skipper="Clarisse Crémer" skipperfirstname="Clarisse" skiperlastname="Crémer">
+          <status>RAC</status>
+          <rank>11</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>36.48182</latitude>
+          <longitude>-17.28845</longitude>
+          <heading>14</heading>
+          <speed>17.65</speed>
+          <vmg>15.82</vmg>
+          <over4h_heading>17</over4h_heading>
+          <over4h_speed>18.98</over4h_speed>
+          <over4h_vmg>17.78</over4h_vmg>
+          <over4h_distance>75.93</over4h_distance>
+          <over24h_heading>8</over24h_heading>
+          <over24h_speed>8.96</over24h_speed>
+          <over24h_vmg>8.24</over24h_vmg>
+          <over24h_distance>215.12</over24h_distance>
+          <sincelastreport_heading>17</sincelastreport_heading>
+          <sincelastreport_speed>18.98</sincelastreport_speed>
+          <sincelastreport_vmg>17.78</sincelastreport_vmg>
+          <sincelastreport_distance>75.93</sincelastreport_distance>
+          <dtf>920.02</dtf>
+          <dtl>786.71</dtl>
+          <dtl_progression>140.49</dtl_progression>
+          <environment_wind_direction>237</environment_wind_direction>
+          <environment_wind_speed>196</environment_wind_speed>
+          <environment_wind_gust>229</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>323</environment_wave_direction>
+          <environment_wave_height>23</environment_wave_height>
+          <environment_tempair>170</environment_tempair>
+          <environment_tempwater>170</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>606</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-11-23T10:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>26.54</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-11-20T09:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>509.96</stats_over24h_max_distance>
+          <stats_over24h_max_speed>21.25</stats_over24h_max_speed>
+          <stats_overground_distance>26882.20</stats_overground_distance>
+          <stats_overground_speed>14.96</stats_overground_speed>
+          <stats_overorthodromy_distance>22985.61</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>12.79</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">3850.44</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="35.42749" longitude="-17.66624"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="35.56928" longitude="-17.60942"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="35.70415" longitude="-17.56595"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="35.86705" longitude="-17.50490"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="36.01558" longitude="-17.42737"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="36.17485" longitude="-17.37197"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="36.33888" longitude="-17.33107"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="36.48182" longitude="-17.28845"></location>
+          </locations>
+        </boat>
+        <boat id="109" name="Initiatives-Cœur" skipper="Samantha Davies" skipperfirstname="Samantha" skiperlastname="Davies">
+          <status>RAC</status>
+          <rank>12</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>33.01866</latitude>
+          <longitude>-23.11015</longitude>
+          <heading>210</heading>
+          <speed>6.36</speed>
+          <vmg>-6.19</vmg>
+          <over4h_heading>295</over4h_heading>
+          <over4h_speed>5.17</over4h_speed>
+          <over4h_vmg>-1.48</over4h_vmg>
+          <over4h_distance>20.68</over4h_distance>
+          <over24h_heading>325</over24h_heading>
+          <over24h_speed>6.22</over24h_speed>
+          <over24h_vmg>2.09</over24h_vmg>
+          <over24h_distance>149.36</over24h_distance>
+          <sincelastreport_heading>295</sincelastreport_heading>
+          <sincelastreport_speed>5.17</sincelastreport_speed>
+          <sincelastreport_vmg>-1.48</sincelastreport_vmg>
+          <sincelastreport_distance>20.68</sincelastreport_distance>
+          <dtf>1266.61</dtf>
+          <dtl>1133.30</dtl>
+          <dtl_progression>64.08</dtl_progression>
+          <environment_wind_direction>275</environment_wind_direction>
+          <environment_wind_speed>145</environment_wind_speed>
+          <environment_wind_gust>163</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>316</environment_wave_direction>
+          <environment_wave_height>22</environment_wave_height>
+          <environment_tempair>184</environment_tempair>
+          <environment_tempwater>196</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>311</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-08T20:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>25.13</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-24T18:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>506.48</stats_over24h_max_distance>
+          <stats_over24h_max_speed>21.10</stats_over24h_max_speed>
+          <stats_overground_distance>27024.53</stats_overground_distance>
+          <stats_overground_speed>15.03</stats_overground_speed>
+          <stats_overorthodromy_distance>22639.02</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>12.59</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">3924.06</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="32.91938" longitude="-22.79603"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="32.97195" longitude="-22.84945"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="33.02810" longitude="-22.90740"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="33.09289" longitude="-22.96068"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="33.15085" longitude="-22.99912"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="33.10945" longitude="-23.03946"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="33.06458" longitude="-23.07872"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="33.01866" longitude="-23.11015"></location>
+          </locations>
+        </boat>
+        <boat id="1297" name="Malizia - Seaexplorer" skipper="Boris Herrmann" skipperfirstname="Boris" skiperlastname="Herrmann">
+          <status>RAC</status>
+          <rank>13</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>30.28013</latitude>
+          <longitude>-22.59858</longitude>
+          <heading>75</heading>
+          <speed>4.54</speed>
+          <vmg>3.53</vmg>
+          <over4h_heading>71</over4h_heading>
+          <over4h_speed>2.54</over4h_speed>
+          <over4h_vmg>2.08</over4h_vmg>
+          <over4h_distance>10.18</over4h_distance>
+          <over24h_heading>348</over24h_heading>
+          <over24h_speed>4.45</over24h_speed>
+          <over24h_vmg>3.21</over24h_vmg>
+          <over24h_distance>106.88</over24h_distance>
+          <sincelastreport_heading>71</sincelastreport_heading>
+          <sincelastreport_speed>2.54</sincelastreport_speed>
+          <sincelastreport_vmg>2.08</sincelastreport_vmg>
+          <sincelastreport_distance>10.18</sincelastreport_distance>
+          <dtf>1377.15</dtf>
+          <dtl>1243.84</dtl>
+          <dtl_progression>78.48</dtl_progression>
+          <environment_wind_direction>349</environment_wind_direction>
+          <environment_wind_speed>73</environment_wind_speed>
+          <environment_wind_gust>73</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>20</environment_wave_direction>
+          <environment_wave_height>24</environment_wave_height>
+          <environment_tempair>178</environment_tempair>
+          <environment_tempwater>201</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>476</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-12T13:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>26.41</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-17T01:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>569.13</stats_over24h_max_distance>
+          <stats_over24h_max_speed>23.71</stats_over24h_max_speed>
+          <stats_overground_distance>27735.20</stats_overground_distance>
+          <stats_overground_speed>15.43</stats_overground_speed>
+          <stats_overorthodromy_distance>22528.48</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>12.53</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">3252.30</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="30.23082" longitude="-22.76617"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="30.22574" longitude="-22.75107"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="30.22867" longitude="-22.73028"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="30.25038" longitude="-22.70724"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="30.25940" longitude="-22.68701"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="30.26412" longitude="-22.67142"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="30.27064" longitude="-22.64100"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="30.28013" longitude="-22.59858"></location>
+          </locations>
+        </boat>
+        <boat id="10" name="Fortinet - Best Western" skipper="Romain Attanasio" skipperfirstname="Romain" skiperlastname="Attanasio">
+          <status>RAC</status>
+          <rank>14</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:18Z</date>
+          <latitude>22.48065</latitude>
+          <longitude>-39.88869</longitude>
+          <heading>340</heading>
+          <speed>11.93</speed>
+          <vmg>5.50</vmg>
+          <over4h_heading>331</over4h_heading>
+          <over4h_speed>15.93</over4h_speed>
+          <over4h_vmg>5.30</over4h_vmg>
+          <over4h_distance>63.71</over4h_distance>
+          <over24h_heading>328</over24h_heading>
+          <over24h_speed>18.72</over24h_speed>
+          <over24h_vmg>7.17</over24h_vmg>
+          <over24h_distance>449.28</over24h_distance>
+          <sincelastreport_heading>331</sincelastreport_heading>
+          <sincelastreport_speed>15.93</sincelastreport_speed>
+          <sincelastreport_vmg>5.30</sincelastreport_vmg>
+          <sincelastreport_distance>63.79</sincelastreport_distance>
+          <dtf>2336.78</dtf>
+          <dtl>2203.47</dtl>
+          <dtl_progression>90.95</dtl_progression>
+          <environment_wind_direction>68</environment_wind_direction>
+          <environment_wind_speed>180</environment_wind_speed>
+          <environment_wind_gust>186</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>8</environment_wave_direction>
+          <environment_wave_height>23</environment_wave_height>
+          <environment_tempair>225</environment_tempair>
+          <environment_tempwater>246</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>273</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-09T01:00:18Z</stats_over1_max_date>
+          <stats_over1_max_speed>25.88</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-13T23:00:18Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>482.15</stats_over24h_max_distance>
+          <stats_over24h_max_speed>20.09</stats_over24h_max_speed>
+          <stats_overground_distance>26039.42</stats_overground_distance>
+          <stats_overground_speed>14.49</stats_overground_speed>
+          <stats_overorthodromy_distance>21568.85</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>12.00</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T06:00:00Z">4671.78</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="21.67159" longitude="-39.42527"></location>
+            <location date="2025-01-24T06:30:18Z" latitude="21.79936" longitude="-39.50553"></location>
+            <location date="2025-01-24T07:00:18Z" latitude="21.91838" longitude="-39.59788"></location>
+            <location date="2025-01-24T07:30:18Z" latitude="22.05472" longitude="-39.66194"></location>
+            <location date="2025-01-24T08:00:18Z" latitude="22.16519" longitude="-39.73540"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="22.29550" longitude="-39.82867"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="22.38658" longitude="-39.85102"></location>
+            <location date="2025-01-24T09:30:18Z" latitude="22.48065" longitude="-39.88869"></location>
+          </locations>
+        </boat>
+        <boat id="13" name="Groupe APICIL" skipper="Damien Seguin" skipperfirstname="Damien" skiperlastname="Seguin">
+          <status>RAC</status>
+          <rank>15</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:18Z</date>
+          <latitude>16.92017</latitude>
+          <longitude>-39.40764</longitude>
+          <heading>347</heading>
+          <speed>15.63</speed>
+          <vmg>9.85</vmg>
+          <over4h_heading>336</over4h_heading>
+          <over4h_speed>18.36</over4h_speed>
+          <over4h_vmg>9.07</over4h_vmg>
+          <over4h_distance>73.42</over4h_distance>
+          <over24h_heading>336</over24h_heading>
+          <over24h_speed>18.13</over24h_speed>
+          <over24h_vmg>10.46</over24h_vmg>
+          <over24h_distance>435.03</over24h_distance>
+          <sincelastreport_heading>336</sincelastreport_heading>
+          <sincelastreport_speed>18.36</sincelastreport_speed>
+          <sincelastreport_vmg>9.07</sincelastreport_vmg>
+          <sincelastreport_distance>73.42</sincelastreport_distance>
+          <dtf>2573.95</dtf>
+          <dtl>2440.65</dtl>
+          <dtl_progression>105.79</dtl_progression>
+          <environment_wind_direction>67</environment_wind_direction>
+          <environment_wind_speed>216</environment_wind_speed>
+          <environment_wind_gust>225</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>40</environment_wave_direction>
+          <environment_wave_height>27</environment_wave_height>
+          <environment_tempair>239</environment_tempair>
+          <environment_tempwater>250</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>230</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-05T23:00:19Z</stats_over1_max_date>
+          <stats_over1_max_speed>27.57</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-07T12:33:31Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>490.59</stats_over24h_max_distance>
+          <stats_over24h_max_speed>20.44</stats_over24h_max_speed>
+          <stats_overground_distance>26058.02</stats_overground_distance>
+          <stats_overground_speed>14.50</stats_overground_speed>
+          <stats_overorthodromy_distance>21331.67</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.87</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-14T02:00:00Z">4780.11</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:19Z" latitude="15.90213" longitude="-38.94019"></location>
+            <location date="2025-01-24T06:30:19Z" latitude="16.04787" longitude="-38.99904"></location>
+            <location date="2025-01-24T07:03:28Z" latitude="16.22976" longitude="-39.09024"></location>
+            <location date="2025-01-24T07:32:53Z" latitude="16.38532" longitude="-39.16569"></location>
+            <location date="2025-01-24T08:00:19Z" latitude="16.52711" longitude="-39.23473"></location>
+            <location date="2025-01-24T08:30:29Z" latitude="16.67959" longitude="-39.30946"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="16.79215" longitude="-39.37655"></location>
+            <location date="2025-01-24T09:30:18Z" latitude="16.92017" longitude="-39.40764"></location>
+          </locations>
+        </boat>
+        <boat id="30" name="Monnoyeur - DUO for a JOB" skipper="Benjamin Ferré" skipperfirstname="Benjamin" skiperlastname="Ferré">
+          <status>RAC</status>
+          <rank>16</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:46Z</date>
+          <latitude>13.31257</latitude>
+          <longitude>-34.01086</longitude>
+          <heading>340</heading>
+          <speed>15.00</speed>
+          <vmg>9.48</vmg>
+          <over4h_heading>345</over4h_heading>
+          <over4h_speed>14.85</over4h_speed>
+          <over4h_vmg>10.46</over4h_vmg>
+          <over4h_distance>59.39</over4h_distance>
+          <over24h_heading>351</over24h_heading>
+          <over24h_speed>13.10</over24h_speed>
+          <over24h_vmg>10.58</over24h_vmg>
+          <over24h_distance>314.42</over24h_distance>
+          <sincelastreport_heading>345</sincelastreport_heading>
+          <sincelastreport_speed>14.85</sincelastreport_speed>
+          <sincelastreport_vmg>10.46</sincelastreport_vmg>
+          <sincelastreport_distance>59.17</sincelastreport_distance>
+          <dtf>2576.10</dtf>
+          <dtl>2442.79</dtl>
+          <dtl_progression>111.56</dtl_progression>
+          <environment_wind_direction>55</environment_wind_direction>
+          <environment_wind_speed>224</environment_wind_speed>
+          <environment_wind_gust>235</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>6</environment_wave_direction>
+          <environment_wave_height>27</environment_wave_height>
+          <environment_tempair>241</environment_tempair>
+          <environment_tempwater>253</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>712</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2025-01-15T01:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>25.89</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-17T08:31:09Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>481.22</stats_over24h_max_distance>
+          <stats_over24h_max_speed>20.05</stats_over24h_max_speed>
+          <stats_overground_distance>24704.16</stats_overground_distance>
+          <stats_overground_speed>13.74</stats_overground_speed>
+          <stats_overorthodromy_distance>21329.53</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.87</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2024-12-25T06:00:00Z">5085.57</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:31:12Z" latitude="12.59655" longitude="-33.78496"></location>
+            <location date="2025-01-24T07:02:12Z" latitude="12.71393" longitude="-33.81826"></location>
+            <location date="2025-01-24T07:30:12Z" latitude="12.82137" longitude="-33.84721"></location>
+            <location date="2025-01-24T08:02:18Z" latitude="12.95002" longitude="-33.88994"></location>
+            <location date="2025-01-24T08:31:07Z" latitude="13.07172" longitude="-33.93781"></location>
+            <location date="2025-01-24T09:03:13Z" latitude="13.20483" longitude="-33.97033"></location>
+            <location date="2025-01-24T09:30:46Z" latitude="13.31257" longitude="-34.01086"></location>
+          </locations>
+        </boat>
+        <boat id="27" name="MACSF" skipper="Isabelle Joschke" skipperfirstname="Isabelle" skiperlastname="Joschke">
+          <status>RAC</status>
+          <rank>17</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>16.77608</latitude>
+          <longitude>-39.46632</longitude>
+          <heading>328</heading>
+          <speed>20.63</speed>
+          <vmg>7.11</vmg>
+          <over4h_heading>335</over4h_heading>
+          <over4h_speed>18.62</over4h_speed>
+          <over4h_vmg>9.00</over4h_vmg>
+          <over4h_distance>74.47</over4h_distance>
+          <over24h_heading>331</over24h_heading>
+          <over24h_speed>18.05</over24h_speed>
+          <over24h_vmg>9.16</over24h_vmg>
+          <over24h_distance>433.28</over24h_distance>
+          <sincelastreport_heading>335</sincelastreport_heading>
+          <sincelastreport_speed>18.62</sincelastreport_speed>
+          <sincelastreport_vmg>9.00</sincelastreport_vmg>
+          <sincelastreport_distance>74.47</sincelastreport_distance>
+          <dtf>2582.85</dtf>
+          <dtl>2449.55</dtl>
+          <dtl_progression>105.50</dtl_progression>
+          <environment_wind_direction>66</environment_wind_direction>
+          <environment_wind_speed>217</environment_wind_speed>
+          <environment_wind_gust>225</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>42</environment_wave_direction>
+          <environment_wave_height>27</environment_wave_height>
+          <environment_tempair>239</environment_tempair>
+          <environment_tempwater>250</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>230</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-06T06:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>26.90</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-18T14:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>525.54</stats_over24h_max_distance>
+          <stats_over24h_max_speed>21.90</stats_over24h_max_speed>
+          <stats_overground_distance>26414.54</stats_overground_distance>
+          <stats_overground_speed>14.70</stats_overground_speed>
+          <stats_overorthodromy_distance>21322.78</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.86</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T22:00:00Z">4789.48</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="15.75035" longitude="-38.97452"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="15.86699" longitude="-39.02563"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="15.99137" longitude="-39.07546"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="16.16156" longitude="-39.17256"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="16.31710" longitude="-39.23014"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="16.48334" longitude="-39.29611"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="16.63055" longitude="-39.37104"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="16.77608" longitude="-39.46632"></location>
+          </locations>
+        </boat>
+        <boat id="34" name="Prysmian" skipper="Giancarlo Pedote" skipperfirstname="Giancarlo" skiperlastname="Pedote">
+          <status>RAC</status>
+          <rank>18</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>13.97303</latitude>
+          <longitude>-36.11038</longitude>
+          <heading>341</heading>
+          <speed>17.31</speed>
+          <vmg>10.64</vmg>
+          <over4h_heading>341</over4h_heading>
+          <over4h_speed>16.74</over4h_speed>
+          <over4h_vmg>10.45</over4h_vmg>
+          <over4h_distance>66.96</over4h_distance>
+          <over24h_heading>340</over24h_heading>
+          <over24h_speed>15.79</over24h_speed>
+          <over24h_vmg>10.59</over24h_vmg>
+          <over24h_distance>378.88</over24h_distance>
+          <sincelastreport_heading>341</sincelastreport_heading>
+          <sincelastreport_speed>16.74</sincelastreport_speed>
+          <sincelastreport_vmg>10.45</sincelastreport_vmg>
+          <sincelastreport_distance>66.96</sincelastreport_distance>
+          <dtf>2607.26</dtf>
+          <dtl>2473.95</dtl>
+          <dtl_progression>111.50</dtl_progression>
+          <environment_wind_direction>58</environment_wind_direction>
+          <environment_wind_speed>217</environment_wind_speed>
+          <environment_wind_gust>236</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>8</environment_wave_direction>
+          <environment_wave_height>28</environment_wave_height>
+          <environment_tempair>242</environment_tempair>
+          <environment_tempwater>249</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>581</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-18T13:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>25.56</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-19T04:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>556.57</stats_over24h_max_distance>
+          <stats_over24h_max_speed>23.19</stats_over24h_max_speed>
+          <stats_overground_distance>25709.32</stats_overground_distance>
+          <stats_overground_speed>14.30</stats_overground_speed>
+          <stats_overorthodromy_distance>21298.37</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.85</stats_overorthodromy_speed>
+          <stats_timesasleader date="2024-11-15T18:00:00Z">2</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-14T02:00:00Z">4785.72</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="2024-11-15T22:00:00Z">18.60</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="13.03879" longitude="-35.78321"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="13.15484" longitude="-35.83384"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="13.28385" longitude="-35.88686"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="13.41430" longitude="-35.93333"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="13.54847" longitude="-35.98667"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="13.69750" longitude="-36.03043"></location>
+            <location date="2025-01-24T09:00:01Z" latitude="13.83713" longitude="-36.06118"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="13.97303" longitude="-36.11038"></location>
+          </locations>
+        </boat>
+        <boat id="1000" name="Lazare" skipper="Tanguy Le Turquais" skipperfirstname="Tanguy" skiperlastname="Le Turquais">
+          <status>RAC</status>
+          <rank>19</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>12.63390</latitude>
+          <longitude>-34.29335</longitude>
+          <heading>334</heading>
+          <speed>16.27</speed>
+          <vmg>8.96</vmg>
+          <over4h_heading>334</over4h_heading>
+          <over4h_speed>15.90</over4h_speed>
+          <over4h_vmg>9.03</over4h_vmg>
+          <over4h_distance>63.58</over4h_distance>
+          <over24h_heading>340</over24h_heading>
+          <over24h_speed>13.58</over24h_speed>
+          <over24h_vmg>9.38</over24h_vmg>
+          <over24h_distance>326.04</over24h_distance>
+          <sincelastreport_heading>334</sincelastreport_heading>
+          <sincelastreport_speed>15.90</sincelastreport_speed>
+          <sincelastreport_vmg>9.03</sincelastreport_vmg>
+          <sincelastreport_distance>63.58</sincelastreport_distance>
+          <dtf>2619.57</dtf>
+          <dtl>2486.26</dtl>
+          <dtl_progression>105.83</dtl_progression>
+          <environment_wind_direction>55</environment_wind_direction>
+          <environment_wind_speed>216</environment_wind_speed>
+          <environment_wind_gust>228</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>6</environment_wave_direction>
+          <environment_wave_height>27</environment_wave_height>
+          <environment_tempair>243</environment_tempair>
+          <environment_tempwater>255</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>797</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-17T17:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>22.74</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-17T18:30:39Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>492.47</stats_over24h_max_distance>
+          <stats_over24h_max_speed>20.52</stats_over24h_max_speed>
+          <stats_overground_distance>24364.03</stats_overground_distance>
+          <stats_overground_speed>13.55</stats_overground_speed>
+          <stats_overorthodromy_distance>21286.06</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.84</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2024-12-25T10:00:00Z">5102.97</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="11.79080" longitude="-33.88423"></location>
+            <location date="2025-01-24T06:31:02Z" latitude="11.90759" longitude="-33.92720"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="12.01749" longitude="-33.99207"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="12.14094" longitude="-34.04790"></location>
+            <location date="2025-01-24T08:00:21Z" latitude="12.27112" longitude="-34.09758"></location>
+            <location date="2025-01-24T08:30:44Z" latitude="12.39742" longitude="-34.16089"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="12.51218" longitude="-34.23238"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="12.63390" longitude="-34.29335"></location>
+          </locations>
+        </boat>
+        <boat id="7" name="Hublot" skipper="Alan Roura" skipperfirstname="Alan" skiperlastname="Roura">
+          <status>RAC</status>
+          <rank>20</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>10.00517</latitude>
+          <longitude>-32.94391</longitude>
+          <heading>347</heading>
+          <speed>15.48</speed>
+          <vmg>11.72</vmg>
+          <over4h_heading>345</over4h_heading>
+          <over4h_speed>13.30</over4h_speed>
+          <over4h_vmg>9.82</over4h_vmg>
+          <over4h_distance>53.19</over4h_distance>
+          <over24h_heading>339</over24h_heading>
+          <over24h_speed>13.58</over24h_speed>
+          <over24h_vmg>9.68</over24h_vmg>
+          <over24h_distance>325.87</over24h_distance>
+          <sincelastreport_heading>345</sincelastreport_heading>
+          <sincelastreport_speed>13.30</sincelastreport_speed>
+          <sincelastreport_vmg>9.82</sincelastreport_vmg>
+          <sincelastreport_distance>53.19</sincelastreport_distance>
+          <dtf>2718.68</dtf>
+          <dtl>2585.38</dtl>
+          <dtl_progression>109.24</dtl_progression>
+          <environment_wind_direction>52</environment_wind_direction>
+          <environment_wind_speed>188</environment_wind_speed>
+          <environment_wind_gust>200</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>358</environment_wave_direction>
+          <environment_wave_height>25</environment_wave_height>
+          <environment_tempair>249</environment_tempair>
+          <environment_tempwater>264</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>798</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-19T06:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>25.13</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-19T06:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>531.43</stats_over24h_max_distance>
+          <stats_over24h_max_speed>22.14</stats_over24h_max_speed>
+          <stats_overground_distance>24930.81</stats_overground_distance>
+          <stats_overground_speed>13.87</stats_overground_speed>
+          <stats_overorthodromy_distance>21186.95</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.79</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-14T02:00:00Z">4788.03</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="9.26253" longitude="-32.72978"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="9.37575" longitude="-32.74112"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="9.47437" longitude="-32.76432"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="9.57085" longitude="-32.79901"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="9.65137" longitude="-32.83726"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="9.75322" longitude="-32.88549"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="9.87936" longitude="-32.91551"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="10.00517" longitude="-32.94391"></location>
+          </locations>
+        </boat>
+        <boat id="64" name="MS Amlin" skipper="Conrad Colman" skipperfirstname="Conrad" skiperlastname="Colman">
+          <status>RAC</status>
+          <rank>21</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>8.53800</latitude>
+          <longitude>-33.45234</longitude>
+          <heading>349</heading>
+          <speed>12.03</speed>
+          <vmg>9.43</vmg>
+          <over4h_heading>347</over4h_heading>
+          <over4h_speed>12.58</over4h_speed>
+          <over4h_vmg>9.63</over4h_vmg>
+          <over4h_distance>50.32</over4h_distance>
+          <over24h_heading>343</over24h_heading>
+          <over24h_speed>11.99</over24h_speed>
+          <over24h_vmg>9.10</over24h_vmg>
+          <over24h_distance>287.65</over24h_distance>
+          <sincelastreport_heading>347</sincelastreport_heading>
+          <sincelastreport_speed>12.58</sincelastreport_speed>
+          <sincelastreport_vmg>9.63</sincelastreport_vmg>
+          <sincelastreport_distance>50.32</sincelastreport_distance>
+          <dtf>2810.71</dtf>
+          <dtl>2677.40</dtl>
+          <dtl_progression>108.50</dtl_progression>
+          <environment_wind_direction>52</environment_wind_direction>
+          <environment_wind_speed>170</environment_wind_speed>
+          <environment_wind_gust>176</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>1</environment_wave_direction>
+          <environment_wave_height>25</environment_wave_height>
+          <environment_tempair>254</environment_tempair>
+          <environment_tempwater>270</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>827</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2025-01-09T08:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>22.06</stats_over1_max_speed>
+          <stats_over24h_max_date>2025-01-07T02:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>488.31</stats_over24h_max_distance>
+          <stats_over24h_max_speed>20.35</stats_over24h_max_speed>
+          <stats_overground_distance>24246.33</stats_overground_distance>
+          <stats_overground_speed>13.49</stats_overground_speed>
+          <stats_overorthodromy_distance>21094.92</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.74</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2024-12-25T10:00:00Z">5276.39</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="7.82778" longitude="-33.28018"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="7.93105" longitude="-33.30101"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="8.03585" longitude="-33.31187"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="8.13807" longitude="-33.33504"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="8.23819" longitude="-33.37099"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="8.33992" longitude="-33.40727"></location>
+            <location date="2025-01-24T09:00:01Z" latitude="8.43963" longitude="-33.43328"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="8.53800" longitude="-33.45234"></location>
+          </locations>
+        </boat>
+        <boat id="29" name="Tout commence en Finistère - Armor-lux" skipper="Jean Le Cam" skipperfirstname="Jean" skiperlastname="Le Cam">
+          <status>RAC</status>
+          <rank>22</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:18Z</date>
+          <latitude>7.46377</latitude>
+          <longitude>-32.47608</longitude>
+          <heading>335</heading>
+          <speed>12.97</speed>
+          <vmg>8.16</vmg>
+          <over4h_heading>333</over4h_heading>
+          <over4h_speed>12.82</over4h_speed>
+          <over4h_vmg>7.78</over4h_vmg>
+          <over4h_distance>51.26</over4h_distance>
+          <over24h_heading>331</over24h_heading>
+          <over24h_speed>12.61</over24h_speed>
+          <over24h_vmg>7.90</over24h_vmg>
+          <over24h_distance>302.68</over24h_distance>
+          <sincelastreport_heading>333</sincelastreport_heading>
+          <sincelastreport_speed>12.82</sincelastreport_speed>
+          <sincelastreport_vmg>7.78</sincelastreport_vmg>
+          <sincelastreport_distance>51.26</sincelastreport_distance>
+          <dtf>2842.26</dtf>
+          <dtl>2708.95</dtl>
+          <dtl_progression>101.04</dtl_progression>
+          <environment_wind_direction>48</environment_wind_direction>
+          <environment_wind_speed>164</environment_wind_speed>
+          <environment_wind_gust>167</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>359</environment_wave_direction>
+          <environment_wave_height>25</environment_wave_height>
+          <environment_tempair>257</environment_tempair>
+          <environment_tempwater>270</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>500</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-06T08:00:18Z</stats_over1_max_date>
+          <stats_over1_max_speed>24.17</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-18T10:00:18Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>501.82</stats_over24h_max_distance>
+          <stats_over24h_max_speed>20.91</stats_over24h_max_speed>
+          <stats_overground_distance>24294.98</stats_overground_distance>
+          <stats_overground_speed>13.52</stats_overground_speed>
+          <stats_overorthodromy_distance>21063.37</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.72</stats_overorthodromy_speed>
+          <stats_timesasleader date="2024-11-16T02:00:00Z">14</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-14T02:00:00Z">4759.80</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="2024-11-19T06:00:00Z">47.84</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:18Z" latitude="6.79499" longitude="-32.13279"></location>
+            <location date="2025-01-24T06:30:18Z" latitude="6.88832" longitude="-32.18739"></location>
+            <location date="2025-01-24T07:00:09Z" latitude="6.98966" longitude="-32.24200"></location>
+            <location date="2025-01-24T07:30:18Z" latitude="7.08716" longitude="-32.28829"></location>
+            <location date="2025-01-24T08:00:18Z" latitude="7.18234" longitude="-32.33511"></location>
+            <location date="2025-01-24T08:30:02Z" latitude="7.27023" longitude="-32.37984"></location>
+            <location date="2025-01-24T09:00:18Z" latitude="7.36610" longitude="-32.42960"></location>
+            <location date="2025-01-24T09:30:18Z" latitude="7.46377" longitude="-32.47608"></location>
+          </locations>
+        </boat>
+        <boat id="22" name="Freelance.com" skipper="Guirec Soudée" skipperfirstname="Guirec" skiperlastname="Soudée">
+          <status>RAC</status>
+          <rank>23</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>-1.12893</latitude>
+          <longitude>-31.49685</longitude>
+          <heading>12</heading>
+          <speed>4.33</speed>
+          <vmg>4.26</vmg>
+          <over4h_heading>6</over4h_heading>
+          <over4h_speed>5.52</over4h_speed>
+          <over4h_vmg>5.32</over4h_vmg>
+          <over4h_distance>22.06</over4h_distance>
+          <over24h_heading>4</over24h_heading>
+          <over24h_speed>9.18</over24h_speed>
+          <over24h_vmg>8.78</over24h_vmg>
+          <over24h_distance>220.43</over24h_distance>
+          <sincelastreport_heading>6</sincelastreport_heading>
+          <sincelastreport_speed>5.52</sincelastreport_speed>
+          <sincelastreport_vmg>5.32</sincelastreport_vmg>
+          <sincelastreport_distance>22.06</sincelastreport_distance>
+          <dtf>3291.06</dtf>
+          <dtl>3157.76</dtl>
+          <dtl_progression>91.43</dtl_progression>
+          <environment_wind_direction>92</environment_wind_direction>
+          <environment_wind_speed>65</environment_wind_speed>
+          <environment_wind_gust>70</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>356</environment_wave_direction>
+          <environment_wave_height>18</environment_wave_height>
+          <environment_tempair>264</environment_tempair>
+          <environment_tempwater>272</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>273</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-03T03:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>21.39</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-20T12:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>437.02</stats_over24h_max_distance>
+          <stats_over24h_max_speed>18.21</stats_over24h_max_speed>
+          <stats_overground_distance>23433.85</stats_overground_distance>
+          <stats_overground_speed>13.04</stats_overground_speed>
+          <stats_overorthodromy_distance>20614.57</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.47</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">5570.66</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-1.44071" longitude="-31.51973"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-1.40258" longitude="-31.49736"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-1.35368" longitude="-31.48629"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="-1.28980" longitude="-31.46788"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-1.25743" longitude="-31.48510"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="-1.20724" longitude="-31.52238"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="-1.16414" longitude="-31.50445"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="-1.12893" longitude="-31.49685"></location>
+          </locations>
+        </boat>
+        <boat id="1101" name="DMG MORI Global One" skipper="Kojiro Shiraishi" skipperfirstname="Kojiro" skiperlastname="Shiraishi">
+          <status>RAC</status>
+          <rank>24</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>-8.44730</latitude>
+          <longitude>-31.04360</longitude>
+          <heading>18</heading>
+          <speed>12.73</speed>
+          <vmg>12.72</vmg>
+          <over4h_heading>17</over4h_heading>
+          <over4h_speed>12.26</over4h_speed>
+          <over4h_vmg>12.25</over4h_vmg>
+          <over4h_distance>49.02</over4h_distance>
+          <over24h_heading>13</over24h_heading>
+          <over24h_speed>12.06</over24h_speed>
+          <over24h_vmg>11.99</over24h_vmg>
+          <over24h_distance>289.53</over24h_distance>
+          <sincelastreport_heading>17</sincelastreport_heading>
+          <sincelastreport_speed>12.26</sincelastreport_speed>
+          <sincelastreport_vmg>12.25</sincelastreport_vmg>
+          <sincelastreport_distance>49.02</sincelastreport_distance>
+          <dtf>3693.45</dtf>
+          <dtl>3560.14</dtl>
+          <dtl_progression>119.14</dtl_progression>
+          <environment_wind_direction>98</environment_wind_direction>
+          <environment_wind_speed>94</environment_wind_speed>
+          <environment_wind_gust>96</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>356</environment_wave_direction>
+          <environment_wave_height>15</environment_wave_height>
+          <environment_tempair>263</environment_tempair>
+          <environment_tempwater>274</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>32</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-11-17T03:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>26.28</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-03T04:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>456.89</stats_over24h_max_distance>
+          <stats_over24h_max_speed>19.04</stats_over24h_max_speed>
+          <stats_overground_distance>23939.33</stats_overground_distance>
+          <stats_overground_speed>13.32</stats_overground_speed>
+          <stats_overorthodromy_distance>20212.18</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.24</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-14T02:00:00Z">5755.99</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-9.11320" longitude="-31.26280"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-9.00590" longitude="-31.23790"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-8.91730" longitude="-31.20970"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="-8.82520" longitude="-31.16960"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-8.73630" longitude="-31.13920"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="-8.63950" longitude="-31.10760"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="-8.54820" longitude="-31.07640"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="-8.44730" longitude="-31.04360"></location>
+          </locations>
+        </boat>
+        <boat id="172" name="Fives Group - Lantana Environnement" skipper="Louis Duc" skipperfirstname="Louis" skiperlastname="Duc">
+          <status>RAC</status>
+          <rank>25</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>-8.96930</latitude>
+          <longitude>-32.71873</longitude>
+          <heading>8</heading>
+          <speed>13.48</speed>
+          <vmg>13.16</vmg>
+          <over4h_heading>7</over4h_heading>
+          <over4h_speed>12.46</over4h_speed>
+          <over4h_vmg>12.10</over4h_vmg>
+          <over4h_distance>49.86</over4h_distance>
+          <over24h_heading>1</over24h_heading>
+          <over24h_speed>9.65</over24h_speed>
+          <over24h_vmg>9.15</over24h_vmg>
+          <over24h_distance>231.66</over24h_distance>
+          <sincelastreport_heading>7</sincelastreport_heading>
+          <sincelastreport_speed>12.46</sincelastreport_speed>
+          <sincelastreport_vmg>12.10</sincelastreport_vmg>
+          <sincelastreport_distance>49.86</sincelastreport_distance>
+          <dtf>3756.70</dtf>
+          <dtl>3623.40</dtl>
+          <dtl_progression>118.56</dtl_progression>
+          <environment_wind_direction>88</environment_wind_direction>
+          <environment_wind_speed>94</environment_wind_speed>
+          <environment_wind_gust>97</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>23</environment_wave_direction>
+          <environment_wave_height>14</environment_wave_height>
+          <environment_tempair>266</environment_tempair>
+          <environment_tempwater>280</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>22</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-20T22:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>22.39</stats_over1_max_speed>
+          <stats_over24h_max_date>2025-01-06T22:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>473.19</stats_over24h_max_distance>
+          <stats_over24h_max_speed>19.72</stats_over24h_max_speed>
+          <stats_overground_distance>23393.72</stats_overground_distance>
+          <stats_overground_speed>13.01</stats_overground_speed>
+          <stats_overorthodromy_distance>20148.93</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.21</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-14T02:00:00Z">5664.34</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-9.68210" longitude="-32.80276"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-9.57041" longitude="-32.80069"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-9.46573" longitude="-32.79920"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="-9.35764" longitude="-32.79641"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-9.27358" longitude="-32.78308"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="-9.18598" longitude="-32.75201"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="-9.08054" longitude="-32.73404"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="-8.96930" longitude="-32.71873"></location>
+          </locations>
+        </boat>
+        <boat id="83" name="FOUSSIER" skipper="Sébastien Marsset" skipperfirstname="Sébastien" skiperlastname="Marsset">
+          <status>RAC</status>
+          <rank>26</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>-9.61368</latitude>
+          <longitude>-32.61692</longitude>
+          <heading>15</heading>
+          <speed>11.94</speed>
+          <vmg>11.89</vmg>
+          <over4h_heading>7</over4h_heading>
+          <over4h_speed>11.71</over4h_speed>
+          <over4h_vmg>11.41</over4h_vmg>
+          <over4h_distance>46.83</over4h_distance>
+          <over24h_heading>359</over24h_heading>
+          <over24h_speed>10.28</over24h_speed>
+          <over24h_vmg>9.65</over24h_vmg>
+          <over24h_distance>246.79</over24h_distance>
+          <sincelastreport_heading>7</sincelastreport_heading>
+          <sincelastreport_speed>11.71</sincelastreport_speed>
+          <sincelastreport_vmg>11.41</sincelastreport_vmg>
+          <sincelastreport_distance>46.83</sincelastreport_distance>
+          <dtf>3790.88</dtf>
+          <dtl>3657.57</dtl>
+          <dtl_progression>115.77</dtl_progression>
+          <environment_wind_direction>82</environment_wind_direction>
+          <environment_wind_speed>96</environment_wind_speed>
+          <environment_wind_gust>99</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>15</environment_wave_direction>
+          <environment_wave_height>14</environment_wave_height>
+          <environment_tempair>265</environment_tempair>
+          <environment_tempwater>278</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>32</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-02T23:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>20.10</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-03T08:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>425.41</stats_over24h_max_distance>
+          <stats_over24h_max_speed>17.73</stats_over24h_max_speed>
+          <stats_overground_distance>23280.62</stats_overground_distance>
+          <stats_overground_speed>12.95</stats_overground_speed>
+          <stats_overorthodromy_distance>20114.75</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.19</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-14T02:00:00Z">5627.94</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-10.28994" longitude="-32.74399"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-10.19874" longitude="-32.73560"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-10.11064" longitude="-32.71653"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="-10.00963" longitude="-32.70460"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-9.90956" longitude="-32.69337"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="-9.80840" longitude="-32.66766"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="-9.70954" longitude="-32.64363"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="-9.61368" longitude="-32.61692"></location>
+          </locations>
+        </boat>
+        <boat id="1" name="DeVenir" skipper="Violette Dorange" skipperfirstname="Violette" skiperlastname="Dorange">
+          <status>RAC</status>
+          <rank>27</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>-10.46833</latitude>
+          <longitude>-32.88137</longitude>
+          <heading>360</heading>
+          <speed>12.53</speed>
+          <vmg>11.76</vmg>
+          <over4h_heading>356</over4h_heading>
+          <over4h_speed>11.54</over4h_speed>
+          <over4h_vmg>10.58</over4h_vmg>
+          <over4h_distance>46.18</over4h_distance>
+          <over24h_heading>357</over24h_heading>
+          <over24h_speed>11.44</over24h_speed>
+          <over24h_vmg>10.63</over24h_vmg>
+          <over24h_distance>274.67</over24h_distance>
+          <sincelastreport_heading>356</sincelastreport_heading>
+          <sincelastreport_speed>11.54</sincelastreport_speed>
+          <sincelastreport_vmg>10.58</sincelastreport_vmg>
+          <sincelastreport_distance>46.18</sincelastreport_distance>
+          <dtf>3844.44</dtf>
+          <dtl>3711.13</dtl>
+          <dtl_progression>112.45</dtl_progression>
+          <environment_wind_direction>81</environment_wind_direction>
+          <environment_wind_speed>97</environment_wind_speed>
+          <environment_wind_gust>102</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>336</environment_wave_direction>
+          <environment_wave_height>13</environment_wave_height>
+          <environment_tempair>265</environment_tempair>
+          <environment_tempwater>277</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>54</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-04T17:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>21.45</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-21T19:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>416.80</stats_over24h_max_distance>
+          <stats_over24h_max_speed>17.37</stats_over24h_max_speed>
+          <stats_overground_distance>23338.51</stats_overground_distance>
+          <stats_overground_speed>12.98</stats_overground_speed>
+          <stats_overorthodromy_distance>20061.19</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.16</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">6031.02</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-11.14720" longitude="-32.82969"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-11.05309" longitude="-32.82601"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-11.00081" longitude="-32.85812"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="-10.90877" longitude="-32.86119"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-10.79687" longitude="-32.85331"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="-10.68514" longitude="-32.87971"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="-10.57268" longitude="-32.88070"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="-10.46833" longitude="-32.88137"></location>
+          </locations>
+        </boat>
+        <boat id="14" name="La Mie Câline" skipper="Arnaud Boissières" skipperfirstname="Arnaud" skiperlastname="Boissières">
+          <status>RAC</status>
+          <rank>28</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>-11.01291</latitude>
+          <longitude>-33.26644</longitude>
+          <heading>352</heading>
+          <speed>9.92</speed>
+          <vmg>8.72</vmg>
+          <over4h_heading>5</over4h_heading>
+          <over4h_speed>13.23</over4h_speed>
+          <over4h_vmg>12.79</over4h_vmg>
+          <over4h_distance>52.93</over4h_distance>
+          <over24h_heading>2</over24h_heading>
+          <over24h_speed>9.82</over24h_speed>
+          <over24h_vmg>9.38</over24h_vmg>
+          <over24h_distance>235.73</over24h_distance>
+          <sincelastreport_heading>5</sincelastreport_heading>
+          <sincelastreport_speed>13.23</sincelastreport_speed>
+          <sincelastreport_vmg>12.79</sincelastreport_vmg>
+          <sincelastreport_distance>52.93</sincelastreport_distance>
+          <dtf>3882.99</dtf>
+          <dtl>3749.68</dtl>
+          <dtl_progression>121.29</dtl_progression>
+          <environment_wind_direction>86</environment_wind_direction>
+          <environment_wind_speed>104</environment_wind_speed>
+          <environment_wind_gust>108</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>193</environment_wave_direction>
+          <environment_wave_height>13</environment_wave_height>
+          <environment_tempair>265</environment_tempair>
+          <environment_tempwater>276</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>93</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-08T14:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>21.03</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-30T08:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>425.14</stats_over24h_max_distance>
+          <stats_over24h_max_speed>17.71</stats_over24h_max_speed>
+          <stats_overground_distance>23433.12</stats_overground_distance>
+          <stats_overground_speed>13.04</stats_overground_speed>
+          <stats_overorthodromy_distance>20022.64</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.14</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">5935.73</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-11.77242" longitude="-33.33621"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-11.65691" longitude="-33.33044"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-11.54157" longitude="-33.31516"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="-11.42307" longitude="-33.29877"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-11.31011" longitude="-33.27724"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="-11.19926" longitude="-33.26796"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="-11.09474" longitude="-33.25493"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="-11.01291" longitude="-33.26644"></location>
+          </locations>
+        </boat>
+        <boat id="1461" name="HUMAN Immobilier" skipper="Antoine Cornic" skipperfirstname="Antoine" skiperlastname="Cornic">
+          <status>RAC</status>
+          <rank>29</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>-28.54681</latitude>
+          <longitude>-32.46730</longitude>
+          <heading>42</heading>
+          <speed>12.55</speed>
+          <vmg>11.41</vmg>
+          <over4h_heading>42</over4h_heading>
+          <over4h_speed>12.63</over4h_speed>
+          <over4h_vmg>11.48</over4h_vmg>
+          <over4h_distance>50.53</over4h_distance>
+          <over24h_heading>51</over24h_heading>
+          <over24h_speed>11.75</over24h_speed>
+          <over24h_vmg>10.10</over24h_vmg>
+          <over24h_distance>282.03</over24h_distance>
+          <sincelastreport_heading>42</sincelastreport_heading>
+          <sincelastreport_speed>12.63</sincelastreport_speed>
+          <sincelastreport_vmg>11.48</sincelastreport_vmg>
+          <sincelastreport_distance>50.53</sincelastreport_distance>
+          <dtf>4865.68</dtf>
+          <dtl>4732.37</dtl>
+          <dtl_progression>115.93</dtl_progression>
+          <environment_wind_direction>166</environment_wind_direction>
+          <environment_wind_speed>124</environment_wind_speed>
+          <environment_wind_gust>123</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>197</environment_wave_direction>
+          <environment_wave_height>18</environment_wave_height>
+          <environment_tempair>230</environment_tempair>
+          <environment_tempwater>245</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>30</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-02T11:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>22.14</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-02T12:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>452.04</stats_over24h_max_distance>
+          <stats_over24h_max_speed>18.84</stats_over24h_max_speed>
+          <stats_overground_distance>21688.49</stats_overground_distance>
+          <stats_overground_speed>12.07</stats_overground_speed>
+          <stats_overorthodromy_distance>19039.95</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>10.59</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">7549.38</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-29.08933" longitude="-33.03393"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-29.00809" longitude="-32.94849"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-28.92770" longitude="-32.86434"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="-28.84768" longitude="-32.78063"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-28.77204" longitude="-32.70172"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="-28.70152" longitude="-32.62827"></location>
+            <location date="2025-01-24T09:00:01Z" latitude="-28.62400" longitude="-32.54748"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="-28.54681" longitude="-32.46730"></location>
+          </locations>
+        </boat>
+        <boat id="49" name="Tut gut." skipper="Oliver Heer" skipperfirstname="Oliver" skiperlastname="Heer">
+          <status>RAC</status>
+          <rank>30</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>-32.00400</latitude>
+          <longitude>-40.19888</longitude>
+          <heading>337</heading>
+          <speed>6.12</speed>
+          <vmg>4.29</vmg>
+          <over4h_heading>52</over4h_heading>
+          <over4h_speed>4.11</over4h_speed>
+          <over4h_vmg>3.59</over4h_vmg>
+          <over4h_distance>16.43</over4h_distance>
+          <over24h_heading>43</over24h_heading>
+          <over24h_speed>8.46</over24h_speed>
+          <over24h_vmg>8.02</over24h_vmg>
+          <over24h_distance>203.00</over24h_distance>
+          <sincelastreport_heading>52</sincelastreport_heading>
+          <sincelastreport_speed>4.11</sincelastreport_speed>
+          <sincelastreport_vmg>3.59</sincelastreport_vmg>
+          <sincelastreport_distance>16.43</sincelastreport_distance>
+          <dtf>5197.05</dtf>
+          <dtl>5063.74</dtl>
+          <dtl_progression>84.48</dtl_progression>
+          <environment_wind_direction>39</environment_wind_direction>
+          <environment_wind_speed>52</environment_wind_speed>
+          <environment_wind_gust>50</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>194</environment_wave_direction>
+          <environment_wave_height>12</environment_wave_height>
+          <environment_tempair>210</environment_tempair>
+          <environment_tempwater>229</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>0</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-28T21:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>18.76</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-27T22:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>370.39</stats_over24h_max_distance>
+          <stats_over24h_max_speed>15.43</stats_over24h_max_speed>
+          <stats_overground_distance>21189.90</stats_overground_distance>
+          <stats_overground_speed>11.79</stats_overground_speed>
+          <stats_overorthodromy_distance>18708.58</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>10.41</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T06:00:00Z">7264.28</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-32.14327" longitude="-40.39700"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-32.11436" longitude="-40.35446"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-32.09454" longitude="-40.30917"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="-32.09170" longitude="-40.26720"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-32.08756" longitude="-40.21875"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="-32.09080" longitude="-40.17184"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="-32.05085" longitude="-40.17533"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="-32.00400" longitude="-40.19888"></location>
+          </locations>
+        </boat>
+        <boat id="5005" name="Singchain Team Haikou" skipper="Jingkun Xu" skipperfirstname="Jingkun" skiperlastname="Xu">
+          <status>RAC</status>
+          <rank>31</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:18Z</date>
+          <latitude>-33.25112</latitude>
+          <longitude>-39.68999</longitude>
+          <heading>67</heading>
+          <speed>6.11</speed>
+          <vmg>4.32</vmg>
+          <over4h_heading>354</over4h_heading>
+          <over4h_speed>2.49</over4h_speed>
+          <over4h_vmg>2.20</over4h_vmg>
+          <over4h_distance>9.97</over4h_distance>
+          <over24h_heading>26</over24h_heading>
+          <over24h_speed>6.13</over24h_speed>
+          <over24h_vmg>6.12</over24h_vmg>
+          <over24h_distance>147.12</over24h_distance>
+          <sincelastreport_heading>354</sincelastreport_heading>
+          <sincelastreport_speed>2.49</sincelastreport_speed>
+          <sincelastreport_vmg>2.20</sincelastreport_vmg>
+          <sincelastreport_distance>9.97</sincelastreport_distance>
+          <dtf>5256.67</dtf>
+          <dtl>5123.36</dtl>
+          <dtl_progression>78.96</dtl_progression>
+          <environment_wind_direction>11</environment_wind_direction>
+          <environment_wind_speed>52</environment_wind_speed>
+          <environment_wind_gust>51</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>195</environment_wave_direction>
+          <environment_wave_height>12</environment_wave_height>
+          <environment_tempair>206</environment_tempair>
+          <environment_tempwater>219</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>0</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2025-01-11T06:30:19Z</stats_over1_max_date>
+          <stats_over1_max_speed>20.20</stats_over1_max_speed>
+          <stats_over24h_max_date>2025-01-01T04:00:18Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>388.03</stats_over24h_max_distance>
+          <stats_over24h_max_speed>16.17</stats_over24h_max_speed>
+          <stats_overground_distance>21045.39</stats_overground_distance>
+          <stats_overground_speed>11.71</stats_overground_speed>
+          <stats_overorthodromy_distance>18648.96</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>10.38</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">7579.02</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:18Z" latitude="-33.39250" longitude="-39.74365"></location>
+            <location date="2025-01-24T06:30:01Z" latitude="-33.37372" longitude="-39.81385"></location>
+            <location date="2025-01-24T07:00:05Z" latitude="-33.35269" longitude="-39.87099"></location>
+            <location date="2025-01-24T07:30:18Z" latitude="-33.34015" longitude="-39.91589"></location>
+            <location date="2025-01-24T08:00:18Z" latitude="-33.32280" longitude="-39.85403"></location>
+            <location date="2025-01-24T08:30:18Z" latitude="-33.29212" longitude="-39.79633"></location>
+            <location date="2025-01-24T09:00:18Z" latitude="-33.27058" longitude="-39.74621"></location>
+            <location date="2025-01-24T09:30:18Z" latitude="-33.25112" longitude="-39.68999"></location>
+          </locations>
+        </boat>
+        <boat id="71" name="Coup de Pouce" skipper="Manuel Cousin" skipperfirstname="Manuel" skiperlastname="Cousin">
+          <status>RAC</status>
+          <rank>32</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:47Z</date>
+          <latitude>-50.66337</latitude>
+          <longitude>-56.04368</longitude>
+          <heading>39</heading>
+          <speed>12.66</speed>
+          <vmg>12.59</vmg>
+          <over4h_heading>33</over4h_heading>
+          <over4h_speed>12.40</over4h_speed>
+          <over4h_vmg>12.40</over4h_vmg>
+          <over4h_distance>49.61</over4h_distance>
+          <over24h_heading>37</over24h_heading>
+          <over24h_speed>9.04</over24h_speed>
+          <over24h_vmg>9.03</over24h_vmg>
+          <over24h_distance>216.86</over24h_distance>
+          <sincelastreport_heading>33</sincelastreport_heading>
+          <sincelastreport_speed>12.40</sincelastreport_speed>
+          <sincelastreport_vmg>12.40</sincelastreport_vmg>
+          <sincelastreport_distance>49.75</sincelastreport_distance>
+          <dtf>6514.36</dtf>
+          <dtl>6381.05</dtl>
+          <dtl_progression>119.90</dtl_progression>
+          <environment_wind_direction>257</environment_wind_direction>
+          <environment_wind_speed>144</environment_wind_speed>
+          <environment_wind_gust>178</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>3</environment_wave_direction>
+          <environment_wave_height>24</environment_wave_height>
+          <environment_tempair>112</environment_tempair>
+          <environment_tempwater>93</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>613</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-09T21:30:02Z</stats_over1_max_date>
+          <stats_over1_max_speed>20.14</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-18T13:00:02Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>352.02</stats_over24h_max_distance>
+          <stats_over24h_max_speed>14.67</stats_over24h_max_speed>
+          <stats_overground_distance>21056.10</stats_overground_distance>
+          <stats_overground_speed>11.71</stats_overground_speed>
+          <stats_overorthodromy_distance>17391.27</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>9.68</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">8850.38</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:18Z" latitude="-51.25901" longitude="-56.67355"></location>
+            <location date="2025-01-24T06:30:36Z" latitude="-51.16371" longitude="-56.59121"></location>
+            <location date="2025-01-24T07:00:01Z" latitude="-51.10239" longitude="-56.51996"></location>
+            <location date="2025-01-24T07:30:01Z" latitude="-51.01884" longitude="-56.44245"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-50.92380" longitude="-56.36202"></location>
+            <location date="2025-01-24T08:30:08Z" latitude="-50.83676" longitude="-56.26670"></location>
+            <location date="2025-01-24T09:00:07Z" latitude="-50.74746" longitude="-56.15008"></location>
+            <location date="2025-01-24T09:30:47Z" latitude="-50.66337" longitude="-56.04368"></location>
+          </locations>
+        </boat>
+        <boat id="56" name="Nexans - Wewise" skipper="Fabrice Amedeo" skipperfirstname="Fabrice" skiperlastname="Amedeo">
+          <status>RAC</status>
+          <rank>33</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:01Z</date>
+          <latitude>-52.90300</latitude>
+          <longitude>-58.19730</longitude>
+          <heading>38</heading>
+          <speed>11.06</speed>
+          <vmg>11.04</vmg>
+          <over4h_heading>41</over4h_heading>
+          <over4h_speed>12.15</over4h_speed>
+          <over4h_vmg>12.09</over4h_vmg>
+          <over4h_distance>48.59</over4h_distance>
+          <over24h_heading>52</over24h_heading>
+          <over24h_speed>11.29</over24h_speed>
+          <over24h_vmg>11.02</over24h_vmg>
+          <over24h_distance>271.07</over24h_distance>
+          <sincelastreport_heading>41</sincelastreport_heading>
+          <sincelastreport_speed>12.15</sincelastreport_speed>
+          <sincelastreport_vmg>12.09</sincelastreport_vmg>
+          <sincelastreport_distance>48.60</sincelastreport_distance>
+          <dtf>6670.58</dtf>
+          <dtl>6537.27</dtl>
+          <dtl_progression>118.46</dtl_progression>
+          <environment_wind_direction>274</environment_wind_direction>
+          <environment_wind_speed>129</environment_wind_speed>
+          <environment_wind_gust>190</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>23</environment_wave_direction>
+          <environment_wave_height>17</environment_wave_height>
+          <environment_tempair>98</environment_tempair>
+          <environment_tempwater>80</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>371</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-02T03:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>17.91</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-18T17:30:01Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>366.93</stats_over24h_max_distance>
+          <stats_over24h_max_speed>15.29</stats_over24h_max_speed>
+          <stats_overground_distance>20490.96</stats_overground_distance>
+          <stats_overground_speed>11.40</stats_overground_speed>
+          <stats_overorthodromy_distance>17235.05</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>9.59</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">8849.81</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-53.43062" longitude="-58.97743"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-53.35189" longitude="-58.85675"></location>
+            <location date="2025-01-24T07:00:01Z" latitude="-53.26310" longitude="-58.74063"></location>
+            <location date="2025-01-24T07:30:01Z" latitude="-53.18278" longitude="-58.62616"></location>
+            <location date="2025-01-24T08:00:01Z" latitude="-53.11175" longitude="-58.52237"></location>
+            <location date="2025-01-24T08:30:01Z" latitude="-53.04257" longitude="-58.41670"></location>
+            <location date="2025-01-24T09:00:01Z" latitude="-52.97529" longitude="-58.29199"></location>
+            <location date="2025-01-24T09:30:01Z" latitude="-52.90300" longitude="-58.19730"></location>
+          </locations>
+        </boat>
+        <boat id="26" name="D'Ieteren Group" skipper="Denis Van Weynbergh" skipperfirstname="Denis" skiperlastname="Van Weynbergh">
+          <status>RAC</status>
+          <rank>34</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>-54.15704</latitude>
+          <longitude>-61.70154</longitude>
+          <heading>50</heading>
+          <speed>9.15</speed>
+          <vmg>8.93</vmg>
+          <over4h_heading>50</over4h_heading>
+          <over4h_speed>10.20</over4h_speed>
+          <over4h_vmg>9.97</over4h_vmg>
+          <over4h_distance>40.81</over4h_distance>
+          <over24h_heading>52</over24h_heading>
+          <over24h_speed>8.48</over24h_speed>
+          <over24h_vmg>8.32</over24h_vmg>
+          <over24h_distance>203.54</over24h_distance>
+          <sincelastreport_heading>50</sincelastreport_heading>
+          <sincelastreport_speed>10.20</sincelastreport_speed>
+          <sincelastreport_vmg>9.97</sincelastreport_vmg>
+          <sincelastreport_distance>40.81</sincelastreport_distance>
+          <dtf>6804.96</dtf>
+          <dtl>6671.66</dtl>
+          <dtl_progression>109.92</dtl_progression>
+          <environment_wind_direction>293</environment_wind_direction>
+          <environment_wind_speed>204</environment_wind_speed>
+          <environment_wind_gust>341</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>317</environment_wave_direction>
+          <environment_wave_height>23</environment_wave_height>
+          <environment_tempair>89</environment_tempair>
+          <environment_tempwater>74</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>140</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-01T13:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>17.95</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-11-15T04:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>345.32</stats_over24h_max_distance>
+          <stats_over24h_max_speed>14.39</stats_over24h_max_speed>
+          <stats_overground_distance>19989.51</stats_overground_distance>
+          <stats_overground_speed>11.12</stats_overground_speed>
+          <stats_overorthodromy_distance>17100.66</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>9.51</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-14T02:00:00Z">9084.63</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank></result_rank>
+          <result_date></result_date>
+          <result_time penalty=""></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-54.54692" longitude="-62.50222"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-54.49276" longitude="-62.38889"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-54.43575" longitude="-62.27148"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="-54.37498" longitude="-62.14723"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-54.31860" longitude="-62.03129"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="-54.26411" longitude="-61.92034"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="-54.20569" longitude="-61.80181"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="-54.15704" longitude="-61.70154"></location>
+          </locations>
+        </boat>
+        <boat id="5" name="STAND AS ONE - Altavia" skipper="Éric Bellion" skipperfirstname="Éric" skiperlastname="Bellion">
+          <status>RET</status>
+          <rank>35</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>-29.92396</latitude>
+          <longitude>-32.96027</longitude>
+          <heading>34</heading>
+          <speed>13.70</speed>
+          <vmg>13.15</vmg>
+          <over4h_heading>31</over4h_heading>
+          <over4h_speed>13.10</over4h_speed>
+          <over4h_vmg>12.78</over4h_vmg>
+          <over4h_distance>52.38</over4h_distance>
+          <over24h_heading>46</over24h_heading>
+          <over24h_speed>12.06</over24h_speed>
+          <over24h_vmg>10.83</over24h_vmg>
+          <over24h_distance>289.41</over24h_distance>
+          <sincelastreport_heading>31</sincelastreport_heading>
+          <sincelastreport_speed>13.10</sincelastreport_speed>
+          <sincelastreport_vmg>12.78</sincelastreport_vmg>
+          <sincelastreport_distance>52.38</sincelastreport_distance>
+          <dtf>4952.31</dtf>
+          <dtl>4819.00</dtl>
+          <dtl_progression>121.20</dtl_progression>
+          <environment_wind_direction>159</environment_wind_direction>
+          <environment_wind_speed>117</environment_wind_speed>
+          <environment_wind_gust>115</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>197</environment_wave_direction>
+          <environment_wave_height>19</environment_wave_height>
+          <environment_tempair>218</environment_tempair>
+          <environment_tempwater>234</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>28</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2025-01-04T22:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>21.44</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-30T08:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>429.15</stats_over24h_max_distance>
+          <stats_over24h_max_speed>17.88</stats_over24h_max_speed>
+          <stats_overground_distance>22092.13</stats_overground_distance>
+          <stats_overground_speed>12.29</stats_overground_speed>
+          <stats_overorthodromy_distance>18953.32</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>10.54</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-15T02:00:00Z">6592.42</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank>35</result_rank>
+          <result_date>2025-01-12T07:00:00Z</result_date>
+          <result_time penalty="0"></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-30.57389" longitude="-33.42643"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="-30.46642" longitude="-33.36708"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-30.36742" longitude="-33.29682"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="-30.26921" longitude="-33.23850"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-30.19356" longitude="-33.16266"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="-30.11018" longitude="-33.09837"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="-30.01856" longitude="-33.03395"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="-29.92396" longitude="-32.96027"></location>
+          </locations>
+        </boat>
+        <boat id="17" name="Maître CoQ V" skipper="Yannick Bestaven" skipperfirstname="Yannick" skiperlastname="Bestaven">
+          <status>RET</status>
+          <rank>36</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:30:00Z</date>
+          <latitude>20.33011</latitude>
+          <longitude>-40.33139</longitude>
+          <heading>347</heading>
+          <speed>16.84</speed>
+          <vmg>9.89</vmg>
+          <over4h_heading>344</over4h_heading>
+          <over4h_speed>16.75</over4h_speed>
+          <over4h_vmg>9.38</over4h_vmg>
+          <over4h_distance>67.00</over4h_distance>
+          <over24h_heading>341</over24h_heading>
+          <over24h_speed>18.20</over24h_speed>
+          <over24h_vmg>10.75</over24h_vmg>
+          <over24h_distance>436.85</over24h_distance>
+          <sincelastreport_heading>344</sincelastreport_heading>
+          <sincelastreport_speed>16.75</sincelastreport_speed>
+          <sincelastreport_vmg>9.38</sincelastreport_vmg>
+          <sincelastreport_distance>67.00</sincelastreport_distance>
+          <dtf>2449.53</dtf>
+          <dtl>2316.22</dtl>
+          <dtl_progression>107.26</dtl_progression>
+          <environment_wind_direction>69</environment_wind_direction>
+          <environment_wind_speed>203</environment_wind_speed>
+          <environment_wind_gust>213</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>13</environment_wave_direction>
+          <environment_wave_height>26</environment_wave_height>
+          <environment_tempair>230</environment_tempair>
+          <environment_tempwater>247</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>315</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-03T19:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>27.60</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-16T14:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>570.85</stats_over24h_max_distance>
+          <stats_over24h_max_speed>23.79</stats_over24h_max_speed>
+          <stats_overground_distance>25769.31</stats_overground_distance>
+          <stats_overground_speed>14.34</stats_overground_speed>
+          <stats_overorthodromy_distance>21456.10</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>11.94</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-13T10:00:00Z">4761.62</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank>36</result_rank>
+          <result_date>2024-12-30T07:00:00Z</result_date>
+          <result_time penalty="0"></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="19.39207" longitude="-40.05041"></location>
+            <location date="2025-01-24T06:30:00Z" latitude="19.53562" longitude="-40.09742"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="19.69217" longitude="-40.13317"></location>
+            <location date="2025-01-24T07:30:00Z" latitude="19.84833" longitude="-40.19687"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="19.93735" longitude="-40.22792"></location>
+            <location date="2025-01-24T08:30:00Z" latitude="20.04783" longitude="-40.26486"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="20.19323" longitude="-40.29885"></location>
+            <location date="2025-01-24T09:30:00Z" latitude="20.33011" longitude="-40.33139"></location>
+          </locations>
+        </boat>
+        <boat id="777" name="Medallia" skipper="Pip Hare" skipperfirstname="Pip" skiperlastname="Hare">
+          <status>RET</status>
+          <rank>37</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2024-12-28T10:30:00Z</date>
+          <latitude>-37.81600</latitude>
+          <longitude>144.94048</longitude>
+          <heading>360</heading>
+          <speed>0.00</speed>
+          <vmg>0.00</vmg>
+          <over4h_heading>43</over4h_heading>
+          <over4h_speed>0.64</over4h_speed>
+          <over4h_vmg>-0.01</over4h_vmg>
+          <over4h_distance>2.57</over4h_distance>
+          <over24h_heading>39</over24h_heading>
+          <over24h_speed>2.80</over24h_speed>
+          <over24h_vmg>-0.23</over24h_vmg>
+          <over24h_distance>67.27</over24h_distance>
+          <sincelastreport_heading>0</sincelastreport_heading>
+          <sincelastreport_speed>0.00</sincelastreport_speed>
+          <sincelastreport_vmg>0.00</sincelastreport_vmg>
+          <sincelastreport_distance>0.00</sincelastreport_distance>
+          <dtf>12581.92</dtf>
+          <dtl>12448.61</dtl>
+          <dtl_progression>70.15</dtl_progression>
+          <environment_wind_direction>181</environment_wind_direction>
+          <environment_wind_speed>47</environment_wind_speed>
+          <environment_wind_gust>76</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>360</environment_wave_direction>
+          <environment_wave_height>12</environment_wave_height>
+          <environment_tempair>136</environment_tempair>
+          <environment_tempwater>182</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>136</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-12-05T04:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>28.00</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-05T18:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>503.89</stats_over24h_max_distance>
+          <stats_over24h_max_speed>21.00</stats_over24h_max_speed>
+          <stats_overground_distance>14403.08</stats_overground_distance>
+          <stats_overground_speed>12.52</stats_overground_speed>
+          <stats_overorthodromy_distance>11323.71</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>9.84</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-15T02:00:00Z">12571.52</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank>37</result_rank>
+          <result_date>2024-12-16T19:09:00Z</result_date>
+          <result_time penalty="0"></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations />
+        </boat>
+        <boat id="23" name="New Europe" skipper="Szabolcs Weöres" skipperfirstname="Szabolcs" skiperlastname="Weöres">
+          <status>RET</status>
+          <rank>38</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-24T09:00:00Z</date>
+          <latitude>-25.66659</latitude>
+          <longitude>4.54854</longitude>
+          <heading>329</heading>
+          <speed>8.61</speed>
+          <vmg>-8.33</vmg>
+          <over4h_heading>290</over4h_heading>
+          <over4h_speed>8.98</over4h_speed>
+          <over4h_vmg>-8.18</over4h_vmg>
+          <over4h_distance>35.91</over4h_distance>
+          <over24h_heading>298</over24h_heading>
+          <over24h_speed>9.84</over24h_speed>
+          <over24h_vmg>-9.50</over24h_vmg>
+          <over24h_distance>236.05</over24h_distance>
+          <sincelastreport_heading>290</sincelastreport_heading>
+          <sincelastreport_speed>8.98</sincelastreport_speed>
+          <sincelastreport_vmg>-8.18</sincelastreport_vmg>
+          <sincelastreport_distance>35.91</sincelastreport_distance>
+          <dtf>18517.97</dtf>
+          <dtl>18384.66</dtl>
+          <dtl_progression>37.49</dtl_progression>
+          <environment_wind_direction>121</environment_wind_direction>
+          <environment_wind_speed>108</environment_wind_speed>
+          <environment_wind_gust>123</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>274</environment_wave_direction>
+          <environment_wave_height>14</environment_wave_height>
+          <environment_tempair>212</environment_tempair>
+          <environment_tempwater>220</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>5</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-11-12T11:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>16.84</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-12-14T12:30:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>308.98</stats_over24h_max_distance>
+          <stats_over24h_max_speed>12.87</stats_over24h_max_speed>
+          <stats_overground_distance>9147.09</stats_overground_distance>
+          <stats_overground_speed>5.09</stats_overground_speed>
+          <stats_overorthodromy_distance>5387.66</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>3.00</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-24T06:00:00Z">18422.15</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank>38</result_rank>
+          <result_date>2024-12-16T17:30:00Z</result_date>
+          <result_time penalty="0"></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations>
+            <location date="2025-01-24T06:00:00Z" latitude="-25.84191" longitude="4.98816"></location>
+            <location date="2025-01-24T07:00:00Z" latitude="-25.81042" longitude="4.80830"></location>
+            <location date="2025-01-24T08:00:00Z" latitude="-25.78891" longitude="4.63172"></location>
+            <location date="2025-01-24T09:00:00Z" latitude="-25.66659" longitude="4.54854"></location>
+          </locations>
+        </boat>
+        <boat id="18" name="Bureau Vallée" skipper="Louis Burton" skipperfirstname="Louis" skiperlastname="Burton">
+          <status>RET</status>
+          <rank>39</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2025-01-06T03:00:00Z</date>
+          <latitude>48.64748</latitude>
+          <longitude>-2.02312</longitude>
+          <heading>180</heading>
+          <speed>0.00</speed>
+          <vmg>0.00</vmg>
+          <over4h_heading>180</over4h_heading>
+          <over4h_speed>0.00</over4h_speed>
+          <over4h_vmg>0.00</over4h_vmg>
+          <over4h_distance>0.00</over4h_distance>
+          <over24h_heading>78</over24h_heading>
+          <over24h_speed>13.11</over24h_speed>
+          <over24h_vmg>11.20</over24h_vmg>
+          <over24h_distance>314.55</over24h_distance>
+          <sincelastreport_heading>0</sincelastreport_heading>
+          <sincelastreport_speed>0.00</sincelastreport_speed>
+          <sincelastreport_vmg>0.00</sincelastreport_vmg>
+          <sincelastreport_distance>0.00</sincelastreport_distance>
+          <dtf>21667.22</dtf>
+          <dtl>21533.91</dtl>
+          <dtl_progression>70.15</dtl_progression>
+          <environment_wind_direction>200</environment_wind_direction>
+          <environment_wind_speed>224</environment_wind_speed>
+          <environment_wind_gust>416</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>356</environment_wave_direction>
+          <environment_wave_height>25</environment_wave_height>
+          <environment_tempair>122</environment_tempair>
+          <environment_tempwater>95</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>644</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-11-26T15:30:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>25.93</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-11-26T05:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>469.77</stats_over24h_max_distance>
+          <stats_over24h_max_speed>19.57</stats_over24h_max_speed>
+          <stats_overground_distance>16896.08</stats_overground_distance>
+          <stats_overground_speed>12.43</stats_overground_speed>
+          <stats_overorthodromy_distance>2238.41</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>1.65</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-15T02:00:00Z">21656.82</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank>39</result_rank>
+          <result_date>2024-12-05T04:00:00Z</result_date>
+          <result_time penalty="0"></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations />
+        </boat>
+        <boat id="53" name="V and B - Monbana - Mayenne" skipper="Maxime Sorel" skipperfirstname="Maxime" skiperlastname="Sorel">
+          <status>RET</status>
+          <rank>40</rank>
+          <rank_corrected>0</rank_corrected>
+          <rank_progression>0</rank_progression>
+          <date>2024-11-29T22:00:00Z</date>
+          <latitude>47.87490</latitude>
+          <longitude>-3.90806</longitude>
+          <heading>34</heading>
+          <speed>0.00</speed>
+          <vmg>0.00</vmg>
+          <over4h_heading>270</over4h_heading>
+          <over4h_speed>0.00</over4h_speed>
+          <over4h_vmg>0.00</over4h_vmg>
+          <over4h_distance>0.00</over4h_distance>
+          <over24h_heading>116</over24h_heading>
+          <over24h_speed>0.00</over24h_speed>
+          <over24h_vmg>0.00</over24h_vmg>
+          <over24h_distance>0.00</over24h_distance>
+          <sincelastreport_heading>0</sincelastreport_heading>
+          <sincelastreport_speed>0.00</sincelastreport_speed>
+          <sincelastreport_vmg>0.00</sincelastreport_vmg>
+          <sincelastreport_distance>0.00</sincelastreport_distance>
+          <dtf>23880.26</dtf>
+          <dtl>23746.95</dtl>
+          <dtl_progression>70.15</dtl_progression>
+          <environment_wind_direction>187</environment_wind_direction>
+          <environment_wind_speed>73</environment_wind_speed>
+          <environment_wind_gust>96</environment_wind_gust>
+          <environment_current_direction></environment_current_direction>
+          <environment_current_speed></environment_current_speed>
+          <environment_wave_direction>326</environment_wave_direction>
+          <environment_wave_height>13</environment_wave_height>
+          <environment_tempair>116</environment_tempair>
+          <environment_tempwater>133</environment_tempwater>
+          <environment_rain></environment_rain>
+          <environment_clouds>103</environment_clouds>
+          <environment_prmsl></environment_prmsl>
+          <stats_over1_max_date>2024-11-11T06:00:00Z</stats_over1_max_date>
+          <stats_over1_max_speed>20.01</stats_over1_max_speed>
+          <stats_over24h_max_date>2024-11-13T05:00:00Z</stats_over24h_max_date>
+          <stats_over24h_max_distance>360.87</stats_over24h_max_distance>
+          <stats_over24h_max_speed>15.04</stats_over24h_max_speed>
+          <stats_overground_distance>2718.38</stats_overground_distance>
+          <stats_overground_speed>5.83</stats_overground_speed>
+          <stats_overorthodromy_distance>25.37</stats_overorthodromy_distance>
+          <stats_overorthodromy_speed>0.05</stats_overorthodromy_speed>
+          <stats_timesasleader date="">0</stats_timesasleader>
+          <stats_gapmaxtoleader date="2025-01-15T02:00:00Z">23869.86</stats_gapmaxtoleader>
+          <stats_gapmaxtofollower date="">0.00</stats_gapmaxtofollower>
+          <result_rank>40</result_rank>
+          <result_date>2024-11-15T12:25:00Z</result_date>
+          <result_time penalty="0"></result_time>
+          <result_timetofirst></result_timetofirst>
+          <result_timtoprevious></result_timtoprevious>
+          <result_points penalty=""></result_points>
+          <hidden>0</hidden>
+          <locations />
+        </boat>
+      </class>
+    </report>
+  </leg>
+</race>
